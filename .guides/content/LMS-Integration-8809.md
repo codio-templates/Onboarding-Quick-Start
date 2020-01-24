@@ -1,0 +1,1 @@
+[If there is a simple way to demonstrate this capability, then we can include this section otherwise, it’s too detailed in the current onboarding guide and should just be part of the Other Features section]# Sample content New Page# Sample content LMS Integration
