@@ -1,1 +1,9 @@
-[If there is a simple way to demonstrate this capability, then we can include this section otherwise, it’s too detailed in the current onboarding guide and should just be part of the Other Features section]# Sample content New Page# Sample content LMS Integration
+You can integrate Codio with your existing LMS system allowing your students to access their classwork directly. Some examples of LMS systems are:
+
+- Canvas
+- Blackboard
+- Moodle
+
+Many other LMS platforms are also supported. Any platform that supports the LTI interface may be integrated with Codio.
+
+For more information about integrating with your LMS system please refer to [LMS Integration](https://codio.com/docs/classes/lti/).

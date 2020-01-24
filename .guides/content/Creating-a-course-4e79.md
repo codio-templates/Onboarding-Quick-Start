@@ -1,11 +1,22 @@
 Open up the Guides editor from the Tools->Guides->Edit menu.
 
+![](.guides/img/create-a-guide.png)
+==
+==[Exact steps need to be mapped out but something along this scope]==
+( need to be back in first project )
 
-### Using Test students
-Test students allow you to try out your materials before adding real students
-[Steps to adding test students]
+You are provided with two pages to start
 
-### Attaching assignments to your course
-[Steps to assign a project]
+click on the "hamburger" icon to see table of contents and to add content
 
-### Viewing the project as a student
+click on pane menu to see split screen with markup and final view
+
+click on item in table of contents to edit the item
+
+control-click to rename or delete
+
+Type in "My First Guide"
+
+
+For more information see Demo Guides and Assessments 
+

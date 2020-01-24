@@ -1,4 +1,4 @@
-You can view your work using special test student accounts that Codio creates for you. There are three special test student accounts that allows you to switch between a teacher view and a student view.
+You may view your course using special test student accounts that Codio creates for you. There are three special test student accounts that allows you to switch between a teacher view and a student view.
 
 - Select your Codio class.
 - Click on the **Students** tab near the top of the page.
@@ -18,7 +18,7 @@ For these special accounts, you do not need to actually login with a user name a
 
 ![](.guides/img/test-student-login.png)
 
-Initially, this screen will not have any data. Once you start assigning Units (coming soon) to your class, you will see information appearing here.
+[There should be assignments at this point so need new graphic]
 
 Note the bar at the top of the screen, letting you know that you are logged in as a test student.
 

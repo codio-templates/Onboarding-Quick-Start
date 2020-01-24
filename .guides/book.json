@@ -48,7 +48,7 @@
    ]
   },
   {
-   "title": "Creating Instructional Materials",
+   "title": "Providing Instructional Materials",
    "id": "2d4ff571-8d33-42da-0046-42656f5fd374",
    "type": "chapter",
    "pageId": "01f9e2d0-20f8-1514-7d7f-c0231f9d301e",
@@ -60,10 +60,16 @@
      "pageId": "4e790aee-40d2-fe30-4b89-ba4efe19fe45"
     },
     {
-     "title": "Creating an Assessment",
+     "title": "Adding an Assessment",
      "id": "c51d9668-b3e1-d3ac-ab34-ea42b01367fd",
      "type": "page",
      "pageId": "7498684d-e547-32b1-a433-3e4d5f9ad8cd"
+    },
+    {
+     "id": "73bc4c31-0a88-f9cb-99a8-2f9475cca2a3",
+     "title": "Read Me Files",
+     "pageId": "65d396e1-8971-bf5d-1b20-c68575f10944",
+     "type": "page"
     }
    ]
   },
@@ -92,7 +98,7 @@
      "type": "page"
     },
     {
-     "title": "Adding Students",
+     "title": "Inviting Your Students",
      "id": "d3b5e0fa-e8bd-46a7-69af-136231f61e0e",
      "type": "page",
      "pageId": "f7b25d80-0ce2-364a-b76d-9d4c5a97ea80"
