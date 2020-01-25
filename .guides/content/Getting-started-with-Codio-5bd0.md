@@ -6,8 +6,9 @@ Codio is the evidence-based learning platform for computer science education. Wi
 This guide will walk you through the following key features of Codio:
 
 
-
+==Not sure about these blue buttons - try something different here==
 {Creating your first project | go-to-section-titled}(Your First Project)
+{Providing instructional materials | go-to-section-titled}(Providing instructional materials)
 {Setting up a Course | go-to-section-titled}(Courses)
 
 {Connecting to an LMS | go-to-section-titled}(LMS Integration)

@@ -1,4 +1,4 @@
-Let's start off by creating some files. Either right click on the project name in the file tree or go to the File menu to create a file. 
+Let's start off by creating some files. Either right click on the project name in the file tree or select **File->New File**.
 
 Create the following files (just enter the file name, Codio will detect the language)
 
@@ -31,4 +31,5 @@ Hello world
 ```
 
 ### Previewing
-You can preview any html file by right-clicking the file in the tree or the code panel tab and selecting 'Preview static'. A new tab will open up and render the file. You can see the box's auto-generated domain name in the url.
+You can preview any html file by right-clicking the file in the tree or the code panel tab and selecting 'Preview static'. A new tab will open up and render the file. 
+==You can see the box's auto-generated domain name in the url. Is this sentence necessary?==

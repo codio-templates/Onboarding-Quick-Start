@@ -9,13 +9,13 @@
    "children": []
   },
   {
-   "title": "Getting Start with Codio",
+   "title": "Getting started with Codio",
    "id": "a4f03fc3-ea02-2a56-e5ac-40750475558a",
    "type": "chapter",
    "pageId": "5bd04a1c-f59a-3746-60f1-23ef23843373",
    "children": [
     {
-     "title": "The Codio Environment",
+     "title": "The Codio environment",
      "id": "df367652-e147-c530-5067-227a0b35fb4b",
      "type": "page",
      "pageId": "df367652-e147-c530-5067-227a0b35fb4b"
@@ -28,27 +28,28 @@
    "type": "chapter",
    "children": [
     {
-     "title": "Your First Project",
+     "title": "Your first project - Hello World",
      "id": "8585dc8b-ba4b-9367-d1fc-5ecbab7c1eb8",
      "type": "page",
      "pageId": "e536b2c4-6b12-19e1-5abb-644c4834b6ec"
     },
     {
-     "title": "Add Files",
+     "title": "Add files",
      "id": "fc2f7d64-c1bf-c951-e4fa-9cc7ba6832a7",
      "type": "page",
      "pageId": "329fcd85-040a-d34e-6d24-130f7dbb1d5b"
     },
     {
-     "title": "Run your Project",
+     "title": "Run your \"Hello World\"",
      "id": "115bbdcd-04a9-1e8a-51ec-24b795df4baa",
      "type": "page",
      "pageId": "aa3ceb78-253f-f0c1-c2b6-68d87ac6c389"
     }
-   ]
+   ],
+   "pageId": "71189cea-ee66-e2b2-a06b-f6db3b46a4c6"
   },
   {
-   "title": "Providing Instructional Materials",
+   "title": "Providing instructional materials",
    "id": "2d4ff571-8d33-42da-0046-42656f5fd374",
    "type": "chapter",
    "pageId": "01f9e2d0-20f8-1514-7d7f-c0231f9d301e",
@@ -67,14 +68,14 @@
     },
     {
      "id": "73bc4c31-0a88-f9cb-99a8-2f9475cca2a3",
-     "title": "Read Me Files",
+     "title": "Read Me files",
      "pageId": "65d396e1-8971-bf5d-1b20-c68575f10944",
      "type": "page"
     }
    ]
   },
   {
-   "title": "Setting up Your Courses",
+   "title": "Setting up your Courses",
    "id": "42ab7e28-a836-30b2-87ed-5cc6a26694bd",
    "type": "chapter",
    "pageId": "4d5091a6-30a3-d023-29ff-0f46ee395611",
@@ -87,24 +88,24 @@
     },
     {
      "id": "27bd15eb-b66f-2e66-87f4-a4518c5e9cba",
-     "title": "Adding Instructional Materials",
+     "title": "Adding instructional materials",
      "pageId": "4f21a425-4024-429f-e3f1-e95010fcf99d",
      "type": "page"
     },
     {
      "id": "f8156c8c-8307-bdcf-a628-18bcf74bf4b5",
-     "title": "Viewing your Materials",
+     "title": "Viewing your materials",
      "pageId": "19b797eb-74b7-993d-123b-c43d9d499dae",
      "type": "page"
     },
     {
-     "title": "Inviting Your Students",
+     "title": "Inviting your students",
      "id": "d3b5e0fa-e8bd-46a7-69af-136231f61e0e",
      "type": "page",
      "pageId": "f7b25d80-0ce2-364a-b76d-9d4c5a97ea80"
     },
     {
-     "title": "Adding Teaching Assistants",
+     "title": "Adding teaching assistants",
      "id": "4cf64e7b-50a0-21b3-47b1-c8969879a51f",
      "type": "page",
      "pageId": "5d7c85b2-84ad-28b5-18ea-f366bca44fc8"
@@ -112,14 +113,14 @@
    ]
   },
   {
-   "title": "LMS Integration",
+   "title": "LMS integration",
    "id": "1b87853b-1019-e09e-fa0a-99c8a12a9609",
    "type": "chapter",
    "pageId": "88094944-5fe7-aab1-72e8-1813d73947f0",
    "children": []
   },
   {
-   "title": "Other Features",
+   "title": "More information",
    "id": "edb29264-51c8-b06b-9ff6-1272bef51114",
    "type": "chapter",
    "pageId": "1e63a49a-d296-cc3e-2d52-af8f6c908020",

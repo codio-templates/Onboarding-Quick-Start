@@ -1,4 +1,4 @@
-You may view your course using special test student accounts that Codio creates for you. There are three special test student accounts that allows you to switch between a teacher view and a student view.
+You may view your course using special student accounts that Codio creates for you. There are three special test student accounts that allows you to switch between a teacher view and a student view.
 
 - Select your Codio class.
 - Click on the **Students** tab near the top of the page.
