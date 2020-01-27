@@ -1,4 +1,4 @@
-You will use Markdown to create formatted content. You can find more information about Markdown in the [Codio documention](https://codio.com/docs/content/authoring/page-edit/edit/).
+You will use Markdown to create formatted content. Markdown provides you with many of the formatting capabilities you will need without the need to dice in more complicated HTML syntax. You can find more information about Markdown in the [Codio documention](https://codio.com/docs/content/authoring/page-edit/edit/).
 
 To open the Guides editor go to **Tools->Guides->Edit**.
 
@@ -30,5 +30,5 @@ To edit a page or section, click on the item in the index.
 To rename or delete an element in your guide, right-click on the item in the index.
 
 
-To get full details about Guides, please [refer to the documentation](https://codio.com/docs/content/authoring/page-edit/edit/).
+For full details about Guides, please [refer to the documentation](https://codio.com/docs/content/authoring/page-edit/edit/).
 
