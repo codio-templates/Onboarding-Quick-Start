@@ -12,3 +12,6 @@ Installing additional software components
 Creating GUI based applications
 
 Using the Visual Debugger
+
+Creating your own Stacks
+

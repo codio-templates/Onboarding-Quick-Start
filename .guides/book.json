@@ -2,7 +2,7 @@
  "name": "Onboarding - Quick Start",
  "children": [
   {
-   "title": "This Guide",
+   "title": "Introduction",
    "id": "de814809-1460-2004-a1bb-58adb137aaa8",
    "type": "chapter",
    "pageId": "d430a6ce-c086-3184-683d-1bedf5a46136",
@@ -61,7 +61,7 @@
      "pageId": "4e790aee-40d2-fe30-4b89-ba4efe19fe45"
     },
     {
-     "title": "Adding an Assessment",
+     "title": "Using an existing Assessment",
      "id": "c51d9668-b3e1-d3ac-ab34-ea42b01367fd",
      "type": "page",
      "pageId": "7498684d-e547-32b1-a433-3e4d5f9ad8cd"
@@ -90,6 +90,12 @@
      "id": "27bd15eb-b66f-2e66-87f4-a4518c5e9cba",
      "title": "Adding instructional materials",
      "pageId": "4f21a425-4024-429f-e3f1-e95010fcf99d",
+     "type": "page"
+    },
+    {
+     "id": "17bc2b4f-5583-c1ae-8b38-51fcf8efefa8",
+     "title": "Editing existing instructional materials?",
+     "pageId": "e041df4e-6608-c5f8-9e57-65c6824b95c3",
      "type": "page"
     },
     {

@@ -18,7 +18,7 @@ For these special accounts, you do not need to actually login with a user name a
 
 ![](.guides/img/test-student-login.png)
 
-[There should be assignments at this point so need new graphic]
+==There should be assignments at this point so need new graphic==
 
 Note the bar at the top of the screen, letting you know that you are logged in as a test student.
 
