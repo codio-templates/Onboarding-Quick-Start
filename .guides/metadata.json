@@ -118,6 +118,18 @@
    "learningObjectives": ""
   },
   {
+   "id": "539d1366-a3c1-71ee-aee1-88f24c3aee7c",
+   "title": "Creating an Assessment",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Creating-an-Assessment-539d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
    "id": "7498684d-e547-32b1-a433-3e4d5f9ad8cd",
    "title": "Using an existing Assessment",
    "files": [],

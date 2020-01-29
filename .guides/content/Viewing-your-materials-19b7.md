@@ -1,4 +1,4 @@
-You may view your course using special student accounts that Codio creates for you. There are three special test student accounts that allows you to switch between a teacher view and a student view.
+You may view your course using the special student accounts Codio creates for you. There are three special test student accounts that allows you to switch between a teacher view and a student view.
 
 - Select your Codio class.
 - Click on the **Students** tab near the top of the page.
@@ -16,9 +16,9 @@ As soon as you have added the test students, you are able to log in as one of th
 
 For these special accounts, you do not need to actually login with a user name and password. Instead, you are taken directly to the **My Classroom** dashboard. 
 
-![](.guides/img/test-student-login.png)
+![](.guides/img/student-view.png)
 
-==There should be assignments at this point so need new graphic==
+
 
 Note the bar at the top of the screen, letting you know that you are logged in as a test student.
 
@@ -27,3 +27,11 @@ You can switch back to your main teacher account in either of these two ways
 
 - Press the **Switch back to teacher account** button at the top of the page. 
 - Log out of the test student account.
+
+### Pinning an Assignment
+One very useful feature is to 'pin' an assignment. This allows the faculty member to pin the Unit to the top of the students' dashboards so it is easy to find.
+
+
+To the top right of the list item is a pencil icon. Click on the pencil to enter edit mode and then click the 'Pin' icon. 
+
+![](.guides/img/pin-assignment.png)

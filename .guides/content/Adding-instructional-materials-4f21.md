@@ -23,10 +23,4 @@ At this point, we take a snapshot of your source project, ready for the students
 
 ![](.guides/img/publish.png)
 
-### Pinning an Assignment
-One very useful feature is to 'pin' the assignment. This allows the faculty member to pin the Unit to the top of the students' dashboards so it is easy to find.
-
-If you have just assigned the new assignment then you will see your new project as the only project in the list below. To the top right of the list item is a pencil icon. Click on this and then click the 'Pin' icon. 
-
-![](.guides/img/pin-unit.png)
 

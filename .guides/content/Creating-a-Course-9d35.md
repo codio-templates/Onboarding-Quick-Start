@@ -7,7 +7,9 @@ Courses are organized in a hierarchical structure with modules (folders) that co
 ### Creating New Courses
 Create a new course by selecting **Courses** and pressing the **+** button at the top of the page. Give the course a meaningful name and press create.
 
-Create a class called 'My First Course'.
+![](.guides/img/courses-dashboard.png)
 
-==This image should probably show the dialog that comes up==
-![](.guides/img/new-course.png)
+Create a class called 'My First Course' and click **Create Course**.
+
+
+![](.guides/img/my-first-course.png)
