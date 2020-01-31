@@ -13,14 +13,7 @@
    "id": "a4f03fc3-ea02-2a56-e5ac-40750475558a",
    "type": "chapter",
    "pageId": "5bd04a1c-f59a-3746-60f1-23ef23843373",
-   "children": [
-    {
-     "title": "The Codio environment",
-     "id": "df367652-e147-c530-5067-227a0b35fb4b",
-     "type": "page",
-     "pageId": "df367652-e147-c530-5067-227a0b35fb4b"
-    }
-   ]
+   "children": []
   },
   {
    "title": "Projects",

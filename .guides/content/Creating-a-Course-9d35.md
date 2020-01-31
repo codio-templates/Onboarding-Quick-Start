@@ -9,7 +9,7 @@ Create a new course by selecting **Courses** and pressing the **+** button at th
 
 ![](.guides/img/courses-dashboard.png)
 
-Create a class called 'My First Course' and click **Create Course**.
+Create a class called 'My First Course' and click **Create Course** ==then select **Add Empty Course**==.
 
 
 ![](.guides/img/my-first-course.png)

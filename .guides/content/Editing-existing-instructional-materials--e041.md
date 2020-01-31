@@ -1,1 +1,1 @@
-==instructions for editing an existing guide==
+==instructions for editing an existing guide. Should this be here or in projects==

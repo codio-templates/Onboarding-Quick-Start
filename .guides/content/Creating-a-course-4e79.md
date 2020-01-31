@@ -32,5 +32,5 @@ To edit a page or section, click on the item in the **Page List**.
 To rename or delete an element in your guide, right-click on the item in the **Page List**.
 
 
-For full details about Guides, please refer to the documenation section on [content authoring](https://codio.com/docs/content/authoring/).
+For full details about Guides, please refer to the documentation section on [content authoring](https://codio.com/docs/content/authoring/).
 

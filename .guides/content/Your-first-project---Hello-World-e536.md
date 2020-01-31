@@ -4,7 +4,7 @@ Follow these steps to create your first Codio project. In the main dashboard, cl
 Codio projects always auto-save.
 
 ### Stack selection
-**Stacks** contain the tools (databases,languages) and configuration information needed to run your project. Codio offers you a range of commonly used configurations to get you started. For more information about customizing stacks and creating your own see the [Stacks documentation](https://codio.com/docs/project/stacks/).
+**Stacks** contain the tools (databases, languages) and configuration information needed to run your project. Codio offers you a range of commonly used configurations to get you started. For more information about customizing stacks and creating your own see the [Stacks documentation](https://codio.com/docs/project/stacks/).
 
 
 To learn about the other available features when starting a new project, see the [Creating and importing a project](https://codio.com/docs/project/creating/) section of the documentation.
