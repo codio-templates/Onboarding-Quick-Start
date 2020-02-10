@@ -1,5 +1,5 @@
 
-A project or 'Box' is the foundational structure in Codio. With a very few exceptions, you can do, install or configure anything on a Codio Box that you can do on a normal Ubuntu server. 
+A project or 'Box' is the foundational structure in Codio. 
 
 In essence, a box is a fully featured Ubuntu server with the following added features:
 
@@ -13,3 +13,5 @@ In essence, a box is a fully featured Ubuntu server with the following added fea
 
 
 Projects are the basis for almost everything you will do within Codio. 
+
+![.guides/img/terminalGuideIDE](.guides/img/terminalGuideIDE.png)
