@@ -32,6 +32,9 @@ You can switch back to your main teacher account in either of these two ways
 One very useful feature is to 'pin' an assignment. This allows the faculty member to pin the Unit to the top of the students' dashboards so it is easy to find.
 
 
-To the top right of the list item is a pencil icon. Click on the pencil to enter edit mode and then click the 'Pin' icon. 
+To the top right of the list item is a pencil icon. 
+1. Click on the pencil to enter 'Teaching' mode 
 
-![](.guides/img/pin-assignment.png)
+2. Click the 'Pin' icon. 
+
+![](.guides/img/pinAssignment.png)
