@@ -14,7 +14,7 @@ You may view your course using the special student accounts Codio creates for yo
 ### Logging in as a test student
 As soon as you have added the test students, you are able to log in as one of the test students by pressing the **Login as** button. Please note that this is only available for the special test student accounts.
 
-For these special accounts, you do not need to actually login with a user name and password. Instead, you are taken directly to the **My Classroom** dashboard. 
+For these special accounts, you do not need to login with a user name and password. Instead, you are taken directly to the **My Classroom** dashboard. 
 
 ![](.guides/img/student-view.png)
 

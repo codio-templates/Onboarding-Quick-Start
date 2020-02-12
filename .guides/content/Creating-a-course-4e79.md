@@ -1,4 +1,4 @@
-You will use Markdown to create formatted content. Markdown provides you with many of the formatting capabilities you will need without the need to dive into more complicated HTML syntax. You can find more information about Markdown in the [Codio documention](https://codio.com/docs/content/authoring/page-edit/edit/).
+You use Markdown to create formatted content. Markdown provides many of the formatting capabilities without the need to dive into more complicated HTML syntax. You can find more information about Markdown in the [Codio documention](https://codio.com/docs/content/authoring/page-edit/edit/).
 
 1. Open the Guides editor by selecting **Tools->Guides->Edit**.
 

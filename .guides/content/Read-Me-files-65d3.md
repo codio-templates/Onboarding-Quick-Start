@@ -1,4 +1,4 @@
-An alternate way to provide instructions to your students is the `README.md` file. This is a simple approach to creating instructions and the student can open and close it as needed. 
+An alternate way to provide instructions to your students is the `README.md` file. This is a simple approach to creating instructions and the student can open and close the file as needed. 
 
 The `README.md` file will open automatically every time the student accesses the project.
 

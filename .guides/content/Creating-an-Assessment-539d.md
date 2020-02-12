@@ -35,7 +35,7 @@ To set this up:
 
 10. Make sure **GENERAL** is selected
 
-11. Enter Assessment 1 
+11. Enter Assessment 1 in the **NAME** field
 
 12. Paste the following into the **Instructions** section:
 
@@ -53,9 +53,9 @@ To set this up:
 
 16. Click the **SHOW ERROR FEEDBACK** toggle.
 
-17. in the **ERROR FEEDBACK** field enter `Did you enter use the correct punctuation?` 
+17. in the **ERROR FEEDBACK** field enter `Did you use the correct punctuation?` 
 
-18. Click **CREATE**.
+18. Click **SAVE**.
 ![.guides/img/gradingAssessment](.guides/img/gradingAssessment.png)
 
 On the next page you will learn how to pull in existing Assessments. 

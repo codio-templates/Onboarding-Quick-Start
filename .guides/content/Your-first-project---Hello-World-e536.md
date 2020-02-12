@@ -18,8 +18,8 @@ To learn about the other available features when starting a new project, see the
 
 
 ### Project name
-You should give your project a name. 
-4. Enter **My First Project**.
+ 
+4. Give your project a name, enter "My First Project".
 
 5. Press enter or click the **Create** button to start your server and begin working on the project.
 
