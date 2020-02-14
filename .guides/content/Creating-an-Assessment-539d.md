@@ -61,6 +61,4 @@ To set this up:
 On the next page you will learn how to pull in existing Assessments. 
 
 #### More information about Assessments
-The **Demo Guides and Assessments** project in **My Projects** contains a section on creating Assessments. If you do not see this in your My Projects list, then [click here](https://codio.com/home/starter-packs/cc68d38b-b0ea-4825-9814-46a3594c2b11/) to create this from a Codio Starter Pack. Click the **Use Pack** button to create a new project from it.
-
-The documentation also contains more information about Codio Assessments, see the  [Assessments section](https://codio.com/docs/content/authoring/assessments/).
+The documentation contains more information about Codio Assessments, see the  [Assessments section](https://codio.com/docs/content/authoring/assessments/).
