@@ -29,7 +29,7 @@ To set this up:
 ![.guides/img/openTabs](.guides/img/openTabs.png)
 
 ## Creating the Assessment
-2. Click on the **Assessments dropdown menu** and select **Standard Code Test**
+1. Click on the **Assessments dropdown menu** and select **Standard Code Test**
 
 ![.guides/img/assessmentDropdown](.guides/img/assessmentDropdown.png)
 
