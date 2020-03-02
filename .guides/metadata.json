@@ -1,19 +1,6 @@
 {
  "sections": [
   {
-   "id": "d430a6ce-c086-3184-683d-1bedf5a46136",
-   "title": "Introduction",
-   "files": [],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Introduction-d430.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
    "id": "5bd04a1c-f59a-3746-60f1-23ef23843373",
    "title": "Getting started with Codio",
    "files": [],
@@ -21,6 +8,19 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Getting-started-with-Codio-5bd0.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "d430a6ce-c086-3184-683d-1bedf5a46136",
+   "title": "Introduction",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Introduction-d430.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,

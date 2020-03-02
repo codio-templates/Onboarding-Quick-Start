@@ -15,6 +15,7 @@ Follow these steps to create your first Codio project.
 To learn about the other available features when starting a new project, see the [Creating and importing a project](https://codio.com/docs/project/creating/) section of the documentation.
 
 3. Select the **Python** stack
+![.guides/img/startPython](.guides/img/startPython.png)
 
 
 ### Project name

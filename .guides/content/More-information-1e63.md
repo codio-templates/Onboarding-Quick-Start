@@ -10,7 +10,7 @@
 
 [Demo GUI Output](https://codio.com/home/starter-packs/d9c00215-ec2a-46e7-b64e-85fab45b0872) - Information for creating projects with GUI output.
 
-[Guides Books Cheat Sheet](https://codio.com/home/starter-packs/cb114a27-d88e-4b74-a2a0-518ccb30dc44) - Information about formatting features available in Codio.
+[Hello Codio Starter Packs](https://codio.com/home/starter-packs?tab=2&sDirection=desc&sProp=installCount&filter=hello+codio) - Instructional Guides demonstrating how to create lessons in multiple programming languages.
 
 
 

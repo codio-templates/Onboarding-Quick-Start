@@ -1,6 +1,7 @@
 You use Markdown to create formatted content. Markdown provides many of the formatting capabilities without the need to dive into more complicated HTML syntax. You can find more information about Markdown in the [Codio documention](https://codio.com/docs/content/authoring/page-edit/edit/).
 
-1. Open the Guides editor by selecting **Tools->Guides->Edit**.
+1. Open the Guides editor by selecting 
+**Tools->Guides->Edit**.
 
 2. To edit content and view the rendered version at the same time, click the **Panel Layout** dropdown menu and select **Split View**.
 

@@ -2,13 +2,6 @@
  "name": "Onboarding - Quick Start",
  "children": [
   {
-   "title": "Introduction",
-   "id": "de814809-1460-2004-a1bb-58adb137aaa8",
-   "type": "chapter",
-   "pageId": "d430a6ce-c086-3184-683d-1bedf5a46136",
-   "children": []
-  },
-  {
    "title": "Getting started with Codio",
    "id": "a4f03fc3-ea02-2a56-e5ac-40750475558a",
    "type": "chapter",
@@ -16,9 +9,17 @@
    "children": []
   },
   {
+   "title": "Introduction",
+   "id": "de814809-1460-2004-a1bb-58adb137aaa8",
+   "type": "chapter",
+   "pageId": "d430a6ce-c086-3184-683d-1bedf5a46136",
+   "children": []
+  },
+  {
    "title": "Projects",
    "id": "bfbd0999-3c02-c726-84a0-8d940dc432cc",
    "type": "chapter",
+   "pageId": "71189cea-ee66-e2b2-a06b-f6db3b46a4c6",
    "children": [
     {
      "title": "Your first project - Hello World",
@@ -38,8 +39,7 @@
      "type": "page",
      "pageId": "aa3ceb78-253f-f0c1-c2b6-68d87ac6c389"
     }
-   ],
-   "pageId": "71189cea-ee66-e2b2-a06b-f6db3b46a4c6"
+   ]
   },
   {
    "title": "Providing instructional materials",
@@ -54,10 +54,10 @@
      "pageId": "4e790aee-40d2-fe30-4b89-ba4efe19fe45"
     },
     {
-     "id": "fa8c7900-f9f7-8258-7852-edb1680f3103",
      "title": "Creating an Assessment",
-     "pageId": "539d1366-a3c1-71ee-aee1-88f24c3aee7c",
-     "type": "page"
+     "id": "fa8c7900-f9f7-8258-7852-edb1680f3103",
+     "type": "page",
+     "pageId": "539d1366-a3c1-71ee-aee1-88f24c3aee7c"
     },
     {
      "title": "Using an existing Assessment",
@@ -66,10 +66,10 @@
      "pageId": "7498684d-e547-32b1-a433-3e4d5f9ad8cd"
     },
     {
-     "id": "73bc4c31-0a88-f9cb-99a8-2f9475cca2a3",
      "title": "Read Me files",
-     "pageId": "65d396e1-8971-bf5d-1b20-c68575f10944",
-     "type": "page"
+     "id": "73bc4c31-0a88-f9cb-99a8-2f9475cca2a3",
+     "type": "page",
+     "pageId": "65d396e1-8971-bf5d-1b20-c68575f10944"
     }
    ]
   },
@@ -86,16 +86,16 @@
      "pageId": "9d353f22-1eca-4fc3-98ca-75749ffdefad"
     },
     {
-     "id": "27bd15eb-b66f-2e66-87f4-a4518c5e9cba",
      "title": "Adding instructional materials",
-     "pageId": "4f21a425-4024-429f-e3f1-e95010fcf99d",
-     "type": "page"
+     "id": "27bd15eb-b66f-2e66-87f4-a4518c5e9cba",
+     "type": "page",
+     "pageId": "4f21a425-4024-429f-e3f1-e95010fcf99d"
     },
     {
-     "id": "f8156c8c-8307-bdcf-a628-18bcf74bf4b5",
      "title": "Viewing your materials",
-     "pageId": "19b797eb-74b7-993d-123b-c43d9d499dae",
-     "type": "page"
+     "id": "f8156c8c-8307-bdcf-a628-18bcf74bf4b5",
+     "type": "page",
+     "pageId": "19b797eb-74b7-993d-123b-c43d9d499dae"
     },
     {
      "title": "Inviting your students",
