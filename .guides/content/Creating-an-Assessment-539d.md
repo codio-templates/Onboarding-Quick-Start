@@ -61,4 +61,4 @@ To set this up:
 On the next page you will learn how to pull in existing Assessments. 
 
 #### More information about Assessments
-The documentation contains more information about Codio Assessments, see the  [Assessments section](https://codio.com/docs/content/authoring/assessments/).
+The documentation contains more information about Codio Assessments, see the  [Assessments section](https://docs.codio.com/courses/assessments/).

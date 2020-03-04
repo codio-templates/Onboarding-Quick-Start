@@ -8,7 +8,7 @@ A Course has the following properties:
 - One or more teachers/instructors.
 - Assignments and instructional materials.
 - Instant access to student code and projects.
-- The ability to integrate with any LTI (industry standard protocol) enabled LMS platform. Then you can use your LMS to auto-populate your course and grade data can be fed back from Codio to the LMS. The Codio Documentation has more information about [LMS Integration](https://codio.com/docs/classes/lti/).
+- The ability to integrate with any LTI (industry standard protocol) enabled LMS platform. Then you can use your LMS to auto-populate your course and grade data can be fed back from Codio to the LMS. The Codio Documentation has more information about [LMS Integration](https://docs.codio.com/courses/lti1_0/#lti-keys-and-urls).
 
 ### Assignment visability
 You can control when your students will see the assignments you have added. There is a **DRAFT** state for assignments you don't want your students to see. 

@@ -1,5 +1,5 @@
 
-You can add additional teaching assistants for a selected course by sending an email invitation or if they are already members of the organisation, locating them and adding them to the course.
+You can add additional teaching assistants for a selected course by sending an email invitation or if they are already members of the organization, locating them and adding them to the course.
 
 1. Select the **Admin** tab near the top of the page
 2. Click on **Edit** next to **Teachers** area then the **Add Teacher** link
