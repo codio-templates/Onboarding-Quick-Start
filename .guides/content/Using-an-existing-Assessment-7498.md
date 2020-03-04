@@ -24,5 +24,5 @@
 
 ![.guides/img/createQuiz](.guides/img/createQuiz.png)
 
-To create a local library for your organization see [this document](https://codio.com/docs/dashboard/create/createlibrary/).
+To create a local library for your organization see [this document](https://docs.codio.com/dashboard/organisations/#create-an-organization-assessments-library).
 

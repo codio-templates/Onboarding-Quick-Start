@@ -7,4 +7,4 @@ You can integrate Codio with your existing LMS system allowing your students to 
 
 Many other LMS platforms are also supported. Any platform that supports the LTI interface may be integrated with Codio.
 
-For more information about integrating with your LMS system please refer to [LMS Integration](https://codio.com/docs/classes/lti/).
+For more information about integrating with your LMS system please refer to [LMS Integration](https://docs.codio.com/courses/lti1_0/#lti-keys-and-urls).

@@ -1,7 +1,7 @@
 
 
 ## Codio Documentation Sources
-- The complete  [Codio Documentation](https://codio.com/docs/)
+- The complete  [Codio Documentation](https://docs.codio.com/)
 
 - Codio has created a number of [**Starter Packs**](https://codio.com/docs/project/packs/) to demonstrate key features of the product. Click on a link below to view the pack and select **USE PACK** if you wish to install it as a Project. A few of general interest are listed below.
 
@@ -15,14 +15,14 @@
 
 
 #### Customizing your environment 
-[Setting user preferences](https://codio.com/docs/ide/customization/codio-prefs/)
-[Setting project preferences](https://codio.com/docs/ide/customization/project-prefs/)
-[Creating custom menu items](https://codio.com/docs/ide/boxes/runmenu/)
+[Setting user preferences](https://docs.codio.com/project/ide/settings/#user-preferences)
+[Setting project preferences](https://docs.codio.com/project/ide/settings/#project-preferences)
+[Creating custom menu items](https://docs.codio.com/project/ide/boxes/#customizable-run-menu)
 
 #### Tools
-[Using the Visual Debugger](https://codio.com/docs/ide/features/debugging/)
-[The Terminal Window](https://codio.com/docs/ide/boxes/terminal/)
-[Monitoring Student Progress](https://codio.com/docs/classes/monitor/progress/)
+[Using the Visual Debugger](https://docs.codio.com/project/ide/features/#debugging)
+[The Terminal Window](https://docs.codio.com/project/ide/boxes/#terminal-window)
+[Monitoring Student Progress](https://docs.codio.com/courses/grading/)
 
 
 
