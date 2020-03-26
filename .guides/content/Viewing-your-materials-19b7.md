@@ -4,7 +4,7 @@ You may view your course using the special student accounts Codio creates for yo
 - Click on the **Students** tab near the top of the page.
 - Now click the large blue **+** button.
 
-![](.guides/img/add-test-student.png)
+![](.guides/img/addTestStudents.png)
 
 - Click on the **Add test students** button. 
 - You will now see all three test students (unless you removed any test students) added to your class.
