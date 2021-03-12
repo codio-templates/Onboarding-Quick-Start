@@ -5,7 +5,7 @@ Courses are organized in a hierarchical structure with modules (folders) that co
 ![](.guides/img/course-structure.png)
 
 ### Creating New Courses
-1. Create a new course by selecting **Courses** and pressing the **+** button at the top of the page. 
+1. Create a new course by selecting **Courses** and pressing the **New Course** button at the top of the page. 
 ![.guides/img/addCourse](.guides/img/addCourse.png)
 
 
