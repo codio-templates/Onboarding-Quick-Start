@@ -1,8 +1,8 @@
 You may view your course using the special student accounts Codio creates for you. There are three special test student accounts that allows you to switch between a teacher view and a student view.
 
-- Select your Codio class.
+- Select your Codio course.
 - Click on the **Students** tab near the top of the page.
-- Now click the large blue **+** button.
+- Now click the  **Add a Student** button.
 
 ![](.guides/img/addTestStudents.png)
 
@@ -29,12 +29,12 @@ You can switch back to your main teacher account in either of these two ways
 - Log out of the test student account.
 
 ### Pinning an Assignment
-One very useful feature is to 'pin' an assignment. This allows the faculty member to pin the Unit to the top of the students' dashboards so it is easy to find.
+One very useful feature is to 'pin' an assignment. This allows the faculty member to pin the assignment to the top of the students' dashboards so it is easy to find.
 
 
-To the top right of the list item is a pencil icon. 
-1. Click on the pencil to enter 'Teaching' mode 
 
-2. Click the 'Pin' icon. 
+- Go to the **Teach** tab
+
+- Click the 'Pin' icon. 
 
 ![](.guides/img/pinAssignment.png)
