@@ -6,47 +6,43 @@ In Codio, a teaching assignment is a project that has been assigned to a course.
 You can assign the project we created earlier or use a Codio supplied project. 
 
 ## Add a Module
--  With the course selected, click on the Edit tab at the top of the page. The list will be empty at this point.
--  Click the **New Module** button.
+1. With the course selected, click the **Edit** tab at the top of the page. The list will be empty at this point.
 
-![.guides/img/firstAssignment](.guides/img/firstAssignment.png)
+2. Click the **New Module** button.
 
+![.guides/img/firstmodule](.guides/img/firstmodule.png)
 
-- Select **Add Empty Module** and create your module with the name **Week 1**
+3. Select **Add Empty Module** and create your module with the name **Week 1**
 
-- Click **Add Module**.
+4. Click **Add Module**.
 ![.guides/img/addModule](.guides/img/addModule.png)
 
 ## Add an Assignment
-- In your newly created module click **Add Assignment** and then select **Project Based**
-![](.guides/img/addAssignment.png)
-- Use the project you created earlier in this guide. For the **Starting Point** select **Click here** to use an existing project
-![.guides/img/startingPoint](.guides/img/startingPoint.png)
+5. In your newly created module click **Add Assignment** and then select **Project Based**
 
-- Click **Copy Project**. 
+![](.guides/img/addassignmentnew.png)
 
+6. Use the project you created earlier in this guide. For the **Starting Point** select **Click here** to use an existing project.
 
-- The name of the project you created earlier should appear in the **COPY FROM** field.
+![.guides/img/startingPoint](.guides/img/startingpointnew.png)
 
+7. Click **Copy Project**. 
 
-![.guides/img/forkProject](.guides/img/forkProject.png)
+8. The name of the project you created earlier should appear in the **COPY FROM** field.
 
+![](.guides/img/forkprojectnew.png)
 
-Codio takes a snapshot of your source project, ready for the students to clone when they start the Assignment. Changes you make to the source project will not be reflected automatically in the student assignment in your course.
+*Codio takes a snapshot of your source project, ready for the students to clone when they start the Assignment. Changes you make to the source project will not be reflected automatically in the student assignment in your course.*
 
+9. You can change the **name** of the assignment (by default it will be the name of your project with 'copy' appended) and add a description if you wish.
 
-- You can change the name of the assignment (by default it will be the name of your project with 'copy' appended) and add a description if you wish.
+10. After selecting **Create**, the assignment will open.
 
-
-
-![.guides/img/nameFork](.guides/img/nameFork.png)
-
-After selecting **Create** the assignment will open.
-
+![](.guides/img/newname.png)
 
 ## Publish your Assignment
-- Go to **Education->Publish Assignment** to make the assignment visible to your students and for it to show on the **Teach** tab
+11. Go to **Education->Publish Assignment** to make the assignment visible to your students and for it to show on the **Teach** tab.
 
-![.guides/img/publish](.guides/img/publish.png)
+![.guides/img/publish](.guides/img/newpublish.png)
 
 

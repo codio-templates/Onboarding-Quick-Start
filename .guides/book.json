@@ -22,10 +22,16 @@
    "pageId": "71189cea-ee66-e2b2-a06b-f6db3b46a4c6",
    "children": [
     {
-     "title": "Your first project - Hello World",
+     "title": "Your first project ",
      "id": "8585dc8b-ba4b-9367-d1fc-5ecbab7c1eb8",
      "type": "page",
      "pageId": "e536b2c4-6b12-19e1-5abb-644c4834b6ec"
+    },
+    {
+     "title": "Read Me files",
+     "id": "73bc4c31-0a88-f9cb-99a8-2f9475cca2a3",
+     "type": "page",
+     "pageId": "65d396e1-8971-bf5d-1b20-c68575f10944"
     },
     {
      "title": "Add files",
@@ -34,7 +40,7 @@
      "pageId": "329fcd85-040a-d34e-6d24-130f7dbb1d5b"
     },
     {
-     "title": "Run your \"Hello World\"",
+     "title": "Run \"Hello World\" in the Terminal",
      "id": "115bbdcd-04a9-1e8a-51ec-24b795df4baa",
      "type": "page",
      "pageId": "aa3ceb78-253f-f0c1-c2b6-68d87ac6c389"
@@ -54,6 +60,18 @@
      "pageId": "4e790aee-40d2-fe30-4b89-ba4efe19fe45"
     },
     {
+     "title": "Formatting your page",
+     "id": "30ee0561-2bc9-dcbf-f4df-e7a3f66820d2",
+     "type": "page",
+     "pageId": "7573acdf-a9ce-7133-a4b1-7b830bb8cafa"
+    },
+    {
+     "title": "Setting up your page for display",
+     "id": "9928b425-1fac-82f0-f66a-8984a519ef92",
+     "type": "page",
+     "pageId": "ec3507b4-9f4d-0167-e968-508e36dd6a5d"
+    },
+    {
      "title": "Creating an Assessment",
      "id": "fa8c7900-f9f7-8258-7852-edb1680f3103",
      "type": "page",
@@ -66,10 +84,10 @@
      "pageId": "7498684d-e547-32b1-a433-3e4d5f9ad8cd"
     },
     {
-     "title": "Read Me files",
-     "id": "73bc4c31-0a88-f9cb-99a8-2f9475cca2a3",
+     "title": "More on Guides & Assessments",
+     "id": "fcb67d66-432f-6cbe-0e94-b269fd6e1cc5",
      "type": "page",
-     "pageId": "65d396e1-8971-bf5d-1b20-c68575f10944"
+     "pageId": "2413c21f-e770-cb5b-93d8-1242c82610cf"
     }
    ]
   },
@@ -84,6 +102,12 @@
      "id": "6f830883-e6ac-9b91-e5a7-3dbfdbe6a5a8",
      "type": "page",
      "pageId": "9d353f22-1eca-4fc3-98ca-75749ffdefad"
+    },
+    {
+     "title": "Creating a Course from Existing Codio Resources",
+     "id": "b128a76f-55ec-96c4-d732-faedf97c821a",
+     "type": "page",
+     "pageId": "0d2052ac-046b-778e-15a3-6db36d4baf56"
     },
     {
      "title": "Adding instructional materials",
