@@ -3,7 +3,7 @@ Once you have completed creating your course, you can provide your students with
 ## The Course Invite URL
 The student invite URL can be used to sign up for a course.
 
-- Select the course you want to share.
+1. Select the course you want to share.
 
 ![.guides/img/selectCourse](.guides/img/selectCourse.png)
 
@@ -13,7 +13,7 @@ The student invite URL can be used to sign up for a course.
 
 3. Click on the clipboard in the **Student invite URL** field to copy the URL to the clipboard.
 
-![.guides/img/studentInviteURL](.guides/img/studentInviteURL.png)
+![.guides/img/studentInviteURL](.guides/img/studentInviteURLnew.png)
 
-You can now share this URL to invite others to your course.
+*You can now share this URL to invite others to your course.*
 

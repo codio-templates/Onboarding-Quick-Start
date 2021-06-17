@@ -11,6 +11,7 @@
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
+   "closeTerminalSession": true,
    "learningObjectives": ""
   },
   {
@@ -24,6 +25,7 @@
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
+   "closeTerminalSession": true,
    "learningObjectives": ""
   },
   {
@@ -37,96 +39,21 @@
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
+   "closeTerminalSession": true,
    "learningObjectives": ""
   },
   {
    "id": "e536b2c4-6b12-19e1-5abb-644c4834b6ec",
-   "title": "Your first project - Hello World",
+   "title": "Your first project ",
    "files": [],
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Your-first-project---Hello-World-e536.md",
+   "content-file": ".guides/content/Your-first-project--e536.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "329fcd85-040a-d34e-6d24-130f7dbb1d5b",
-   "title": "Add files",
-   "files": [],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Add-files-329f.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "aa3ceb78-253f-f0c1-c2b6-68d87ac6c389",
-   "title": "Run your \"Hello World\"",
-   "files": [],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Run-your--Hello-World--aa3c.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "01f9e2d0-20f8-1514-7d7f-c0231f9d301e",
-   "title": "Providing instructional materials",
-   "files": [],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Providing-instructional-materials-01f9.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "4e790aee-40d2-fe30-4b89-ba4efe19fe45",
-   "title": "Creating a Guide",
-   "files": [],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Creating-a-course-4e79.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "539d1366-a3c1-71ee-aee1-88f24c3aee7c",
-   "title": "Creating an Assessment",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Creating-an-Assessment-539d.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "7498684d-e547-32b1-a433-3e4d5f9ad8cd",
-   "title": "Using an existing Assessment",
-   "files": [],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Using-an-existing-Assessment-7498.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
+   "closeTerminalSession": true,
    "learningObjectives": ""
   },
   {
@@ -140,6 +67,130 @@
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "329fcd85-040a-d34e-6d24-130f7dbb1d5b",
+   "title": "Add files",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Add-files-329f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "aa3ceb78-253f-f0c1-c2b6-68d87ac6c389",
+   "title": "Run \"Hello World\" in the Terminal",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Run--Hello-World--in-the-Terminal-aa3c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "01f9e2d0-20f8-1514-7d7f-c0231f9d301e",
+   "title": "Providing instructional materials",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Providing-instructional-materials-01f9.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "4e790aee-40d2-fe30-4b89-ba4efe19fe45",
+   "title": "Creating a Guide",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Creating-a-course-4e79.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "7573acdf-a9ce-7133-a4b1-7b830bb8cafa",
+   "title": "Formatting your page",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Formatting-your-page-7573.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "ec3507b4-9f4d-0167-e968-508e36dd6a5d",
+   "title": "Setting up your page for display",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Setting-up-your-page-for-display-ec35.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "539d1366-a3c1-71ee-aee1-88f24c3aee7c",
+   "title": "Creating an Assessment",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Creating-an-Assessment-539d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "7498684d-e547-32b1-a433-3e4d5f9ad8cd",
+   "title": "Using an existing Assessment",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Using-an-existing-Assessment-7498.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "2413c21f-e770-cb5b-93d8-1242c82610cf",
+   "title": "More on Guides & Assessments",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/More-on-Guides---Assessments-2413.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
    "learningObjectives": ""
   },
   {
@@ -153,6 +204,7 @@
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
+   "closeTerminalSession": true,
    "learningObjectives": ""
   },
   {
@@ -166,6 +218,20 @@
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "0d2052ac-046b-778e-15a3-6db36d4baf56",
+   "title": "Creating a Course from Existing Codio Resources",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Creating-a-Course-from-Existing-Codio-Resources-0d20.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
    "learningObjectives": ""
   },
   {
@@ -179,6 +245,7 @@
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
+   "closeTerminalSession": true,
    "learningObjectives": ""
   },
   {
@@ -192,6 +259,7 @@
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
+   "closeTerminalSession": true,
    "learningObjectives": ""
   },
   {
@@ -205,6 +273,7 @@
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
+   "closeTerminalSession": true,
    "learningObjectives": ""
   },
   {
@@ -218,6 +287,7 @@
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
+   "closeTerminalSession": true,
    "learningObjectives": ""
   },
   {
@@ -231,6 +301,7 @@
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
+   "closeTerminalSession": true,
    "learningObjectives": ""
   },
   {
@@ -244,13 +315,14 @@
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
+   "closeTerminalSession": true,
    "learningObjectives": ""
   }
  ],
  "theme": "light",
  "scripts": [],
  "lexikonTopic": "",
- "suppressPageNumbering": false,
+ "suppressPageNumbering": true,
  "useSubmitButtons": true,
  "useMarkAsComplete": true,
  "hideMenu": false,
