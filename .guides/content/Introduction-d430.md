@@ -4,9 +4,9 @@ This Guide is a great way to learn the core features of Codio. We recommend all 
 
 This video is a great introduction to Codio:![video](https://www.youtube.com/watch?v=5sHxyVBkpMQ) 
 
-**This guide will walk you through the following key features of Codio:**
+**This guide will walk you through  key features of Codio. To jump ahead, click the buttons below.**
 
-* Creating a project
-* Using Guides to create instructional materials
-* Creating assessments
-* Setting up a course
+{Creating a project | go-to-section-titled}(Projects)
+{Providing instructional materials | go-to-section-titled}(Providing instructional materials)
+{Setting up a Course | go-to-section-titled}(Setting up your courses)
+{Connecting to an LMS | go-to-section-titled}(LMS Integration)
