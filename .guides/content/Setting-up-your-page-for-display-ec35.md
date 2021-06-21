@@ -2,9 +2,9 @@
 
 | Type of Page | Description |
 | :------ | :----------- | 
-|**1 panel** ![.guides/img/1panel](.guides/img/1panel.png)| This page has only one panel. There is no need for a code window or terminal. |
-|**2 panels**! ![.guides/img/2panelnew](.guides/img/2panelnew.png) | This page has two panels: the code window and the Guide. |
-|**3 panels** !![.guides/img/3panelnew](.guides/img/3panelnew.png) | This page has three panels: the code window, the terminal and the Guide.|
+|**1 panel** ![One panel_Guide](.guides/img/1panel.png)| This page has only one panel. There is no need for a code window or terminal. |
+|**2 panels**! ![Two panels_Code Window/Guide](.guides/img/2panelnew.png) | This page has two panels: the code window and the Guide. |
+|**3 panels** !![Three panels_Code Window/Guide/Terminal](.guides/img/3panelnew.png) | This page has three panels: the code window, the terminal and the Guide.|
 
 ## Creating a Page with 2 Panels
 ---
@@ -31,7 +31,7 @@ Directions/instructions on what students should do in the code window would go h
 
 7. **Save and Close** settings.
 
-![.guides/img/addacodewindow1](.guides/img/addacodewindow1.png)
+![Add panels for a code window](.guides/img/addacodewindow1.png)
 
 8. Click **Open Tabs.**
  
@@ -39,7 +39,7 @@ Directions/instructions on what students should do in the code window would go h
 
 10. **Save and Close** settings.
 
-![.guides/img/addacodewindow2](.guides/img/addacodewindow2.png)
+![Add code window file in open tabs](.guides/img/addacodewindow2.png)
 
 11. Now, when you click **Preview**, you should see two panels: the code window and the Guide! 
 
@@ -69,7 +69,7 @@ The terminal allows us to work with code that requires input.
 
 18. **Save and Close** settings.
 
-![.guides/img/new3panel](.guides/img/new3panel.png)
+![Add panels for a terminal](.guides/img/new3panel.png)
 
 19. Click **Open Tabs.**
 
@@ -86,6 +86,6 @@ Type `clear` into the Terminal's file name to get a much cleaner Terminal!</deta
 	
 22. **Save and Close** settings.
 
-![.guides/img/new3panelopentabs](.guides/img/new3panelopentabs.png)
+![Add terminal file in open tabs](.guides/img/new3panelopentabs.png)
 
 23. Now, when you click **Preview**, you should see three panels: the code window, the Terminal and the Guide! 

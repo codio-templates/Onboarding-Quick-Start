@@ -1,6 +1,6 @@
 Codio's Resource Catalog can be accessed by clicking `Resources` on the left-hand side of the dashboard. 
 
-![.guides/img/resourcepage](.guides/img/resourcepage.png)
+![Codio resource page](.guides/img/resourcepage.png)
 
 ||| important
 In the catalog, you can filter by type, language or category. 
@@ -11,10 +11,10 @@ In the catalog, you can filter by type, language or category.
 |||
 
 1. Once you decide on a course you want, click:
-![.guides/img/resourcedetails](.guides/img/resourcedetails.png)
+![Get resource details](.guides/img/resourcedetails.png)
 
 2. Within the Resource Details, you can see information about the course, including its modules. `Add to my Account` when you are ready! 
-![.guides/img/addtomyaccount](.guides/img/addtomyaccount.png)
+![Add to my account](.guides/img/addtomyaccount.png)
 
 3. Once you give your course a name, press `Create`.
 

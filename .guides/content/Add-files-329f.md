@@ -3,7 +3,7 @@ Let's start by creating several files. For each page you create that requires st
 1. Either right-click on the project name in the file tree or select **File->New File**.
 
 
-![.guides/img/newFromFileTree](.guides/img/newFromFileTree.png)
+![New file from filetree](.guides/img/newFromFileTree.png)
 
 This example uses Python but you can choose any language you prefer. 
 2. Create the following files (just enter the file name, Codio will detect the language)
@@ -11,16 +11,16 @@ This example uses Python but you can choose any language you prefer.
 - `test.py`
 - `test2.py`
 
-![.guides/img/createFile](.guides/img/createFile.png) 
+![Create a new file](.guides/img/createFile.png) 
 
 
 3. You can switch between files by clicking on the tabs above the code or in the file tree. 
 
-![.guides/img/files](.guides/img/files.png)
+![Access files](.guides/img/files.png)
 
 4. Enter the following text into `test.py`
 
 ```python
 print("Hello world")
 ```
-![filetabs](filetabs.png)
+![Print hello world in file](.guides/img/filetabs.png)

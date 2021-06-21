@@ -14,4 +14,4 @@ In essence, a box is a fully featured Ubuntu server with the following added fea
 
 Projects are the basis for almost everything you will do within Codio. 
 
-![.guides/img/terminalGuideIDE](.guides/img/terminalGuideIDE.png)
+![Code Window/Terminal/Guide](.guides/img/terminalGuideIDE.png)

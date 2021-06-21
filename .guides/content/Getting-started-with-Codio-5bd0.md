@@ -11,5 +11,5 @@ To navigate this guide you can
 - use the 'Next' button at the bottom of every page.
 
 
-![.guides/img/navigationKeys](.guides/img/navigationKeysnew.png)
+![Navigate the guide](.guides/img/navigationKeysnew.png)
 

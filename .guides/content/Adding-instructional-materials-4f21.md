@@ -10,27 +10,27 @@ You can assign the project we created earlier or use a Codio supplied project.
 
 2. Click the **New Module** button.
 
-![.guides/img/firstmodule](.guides/img/firstmodule.png)
+![Create new module](.guides/img/firstmodule.png)
 
 3. Select **Add Empty Module** and create your module with the name **Week 1**
 
 4. Click **Add Module**.
-![.guides/img/addModule](.guides/img/addModule.png)
+![Name the module](.guides/img/addModule.png)
 
 ## Add an Assignment
 5. In your newly created module click **Add Assignment** and then select **Project Based**
 
-![.guides/img/addassignmentnew](.guides/img/addassignmentnew.png)
+![Add assignment dropdown](.guides/img/addassignmentnew.png)
 
 6. Use the project you created earlier in this guide. For the **Starting Point** select **Click here** to use an existing project.
 
-![.guides/img/startingPoint](.guides/img/startingpointnew.png)
+![Select starting point](.guides/img/startingpointnew.png)
 
 7. Click **Copy Project**. 
 
 8. The name of the project you created earlier should appear in the **COPY FROM** field.
 
-![.guides/img/forkprojectnew](.guides/img/forkprojectnew.png)
+![Copy a project](.guides/img/forkprojectnew.png)
 
 *Codio takes a snapshot of your source project, ready for the students to clone when they start the Assignment. Changes you make to the source project will not be reflected automatically in the student assignment in your course.*
 
@@ -38,11 +38,11 @@ You can assign the project we created earlier or use a Codio supplied project.
 
 10. After selecting **Create**, the assignment will open.
 
-![.guides/img/newname](.guides/img/newname.png)
+![Create name for assignment](.guides/img/newname.png)
 
 ## Publish your Assignment
 11. Go to **Education->Publish Assignment** to make the assignment visible to your students and for it to show on the **Teach** tab.
 
-![.guides/img/publish](.guides/img/newpublish.png)
+![Publish](.guides/img/newpublish.png)
 
 

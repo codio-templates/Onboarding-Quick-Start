@@ -4,7 +4,7 @@ Follow these steps to create your first Codio project.
 
 2. Click the **New Project** button on the left. Codio projects always auto-save.
 
-![.guides/img/newProject](.guides/img/newProject.png)
+![Create a new project](.guides/img/newProject.png)
 
 
 
@@ -16,7 +16,7 @@ Follow these steps to create your first Codio project.
 To learn about the other available features when starting a new project, see the [Creating and importing a project](https://docs.codio.com/develop/develop/projects/create-import-project.html#create-import-project) section of the documentation.
 
 3. Select the **Python** stack
-![.guides/img/startPython](.guides/img/startPython.png)
+![Select a stack](.guides/img/startPython.png)
 
 
 ### Project name
@@ -25,5 +25,5 @@ To learn about the other available features when starting a new project, see the
 
 5. Press enter or click the **Create** button to start your server and begin working on the project.
 
-![.guides/img/nameProject](.guides/img/nameProject.png)
+![Name the project](.guides/img/nameProject.png)
 

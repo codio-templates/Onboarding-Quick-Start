@@ -15,4 +15,4 @@ From your Guide you can:
 - Access the Code Visualizer and pre-populate it with student code
 - Create student-triggered auto-graded assessments
    
-![.guides/img/terminalGuideIDE](.guides/img/terminalGuideIDE.png)
+![Code Window/Terminal/Guide](.guides/img/terminalGuideIDE.png)
