@@ -16,4 +16,11 @@ This example uses Python but you can choose any language you prefer.
 
 3. You can switch between files by clicking on the tabs above the code or in the file tree. 
 
-![](.guides/img/files.png)
+![.guides/img/files](.guides/img/files.png)
+
+4. Enter the following text into `test.py`
+
+```python
+print("Hello world")
+```
+![filetabs](filetabs.png)

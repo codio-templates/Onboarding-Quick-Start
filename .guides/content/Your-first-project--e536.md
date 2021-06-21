@@ -25,5 +25,5 @@ To learn about the other available features when starting a new project, see the
 
 5. Press enter or click the **Create** button to start your server and begin working on the project.
 
-![](.guides/img/nameProject.png)
+![.guides/img/nameProject](.guides/img/nameProject.png)
 

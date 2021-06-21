@@ -20,6 +20,13 @@ In the catalog, you can filter by type, language or category.
 
 4. Explore your course. Remember: everything in Codio Resources (and we mean everything)—from the text and code examples to auto-graded assessments, can be customized to suit your teaching context. You can even mix-and-match different resources together and with your own content! 
 
+
+||| important
+**Codio.co.uk** users need to use share codes to add resources to their account. 
+
+[**View a complete list**](https://docs.codio.com/instructors/setupcourses/resources/codioresources.html#codio-resources)  of courses and share codes. 
+
+[**More information**](https://docs.codio.com/instructors/setupcourses/create-course.html#create-fromsharecode) on how to create a course from a share code. 
+|||
+
 [**For more information on courses, click here.**](https://docs.codio.com/instructors/setupcourses/courses.html) 
-
-
