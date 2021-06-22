@@ -17,6 +17,7 @@ Markdown is a lightweight markup language that you can use to add formatting ele
 2. Click the clipboard to copy the text. Paste into your first page.
 
 ```
+
 ||| topic
 
 **if statements**
@@ -38,7 +39,9 @@ Markdown is a lightweight markup language that you can use to add formatting ele
 ```
 
 This is what it will look like once it is rendered: 
-![Rendered call out buttons](.guides/img/renderedcallouts.png)
+
+![Rendered call out buttons](.guides/img/calloutrender.png)
+
 *View your rendered content by selecting **Split View** OR **Preview.***
 
 

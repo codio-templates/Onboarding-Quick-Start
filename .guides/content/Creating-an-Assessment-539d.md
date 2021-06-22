@@ -20,7 +20,7 @@ Create the assessment in page 2, titled *"Adding a Code Window."*
 ---
 1. Click on the **Assessments dropdown menu** and select **Standard Code Test**.
 
-![Assessment dropdown to standard code test](.guides/img/standardcode.png)
+![Assessment dropdown to standard code test](.guides/img/assessmentlibrarystandardcode.png)
 
 2. Make sure **GENERAL** is selected.
 
@@ -33,7 +33,7 @@ Create the assessment in page 2, titled *"Adding a Code Window."*
 
 5. Select **EXECUTION** and type `python3 test.py` in the **COMMAND** field.
 
-![Standard code test_Execution](.guides/img/newassess.png)
+![Standard code test_Execution](.guides/img/standardcodeexecution.png)
 
 6. Select **GRADING**.
 
@@ -48,7 +48,7 @@ Create the assessment in page 2, titled *"Adding a Code Window."*
 
 11. When you go back to **Split View**, you will see the assessment in the Guides Editor on left and how it is rendered in the preview on the right.
 
-![Rendered standard code test](.guides/img/renderedstandardcodetest.png)
+![Rendered standard code test](.guides/img/renderedcodetest.png)
 
 #### Creating the Try It! Button
 ---
@@ -64,7 +64,7 @@ It is important to note that the `Check It!` button submits students' code for a
 
 This is how it will look once rendered:
 
-![Rendered try it button and standard code test](.guides/img/renderedbuttons.png)
+![Rendered try it button and standard code test](.guides/img/buttonrender.png)
 
 #### Test It Out
 ---

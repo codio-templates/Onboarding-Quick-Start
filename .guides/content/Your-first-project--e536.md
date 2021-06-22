@@ -2,7 +2,7 @@ Follow these steps to create your first Codio project.
 
 1. In the main dashboard, choose **My Projects** in the left hand toolbar. 
 
-2. Click the **New Project** button on the left. Codio projects always auto-save.
+2. Click the **New Project** button. Codio projects always auto-save.
 
 ![Create a new project](.guides/img/newProject.png)
 

@@ -10,9 +10,9 @@ You can assign the project we created earlier or use a Codio supplied project.
 
 2. Click the **New Module** button.
 
-![Create new module](.guides/img/firstmodule.png)
+![Create new module](.guides/img/selectnewmodule.png)
 
-3. Select **Add Empty Module** and create your module with the name **Week 1**
+3. Select **Add Empty Module** and create your module with the name **Week 1**.
 
 4. Click **Add Module**.
 ![Name the module](.guides/img/addModule.png)
@@ -20,17 +20,17 @@ You can assign the project we created earlier or use a Codio supplied project.
 ## Add an Assignment
 5. In your newly created module click **Add Assignment** and then select **Project Based**
 
-![Add assignment dropdown](.guides/img/addassignmentnew.png)
+![Add assignment dropdown](.guides/img/assignmentadd.png)
 
 6. Use the project you created earlier in this guide. For the **Starting Point** select **Click here** to use an existing project.
 
-![Select starting point](.guides/img/startingpointnew.png)
+![Select starting point](.guides/img/selectstartingpoint.png)
 
 7. Click **Copy Project**. 
 
 8. The name of the project you created earlier should appear in the **COPY FROM** field.
 
-![Copy a project](.guides/img/forkprojectnew.png)
+![Copy a project](.guides/img/forkaproject.png)
 
 *Codio takes a snapshot of your source project, ready for the students to clone when they start the Assignment. Changes you make to the source project will not be reflected automatically in the student assignment in your course.*
 
@@ -38,11 +38,11 @@ You can assign the project we created earlier or use a Codio supplied project.
 
 10. After selecting **Create**, the assignment will open.
 
-![Create name for assignment](.guides/img/newname.png)
+![Create name for assignment](.guides/img/nametheproject.png)
 
 ## Publish your Assignment
 11. Go to **Education->Publish Assignment** to make the assignment visible to your students and for it to show on the **Teach** tab.
 
-![Publish](.guides/img/newpublish.png)
+![Publish](.guides/img/publish.png)
 
 

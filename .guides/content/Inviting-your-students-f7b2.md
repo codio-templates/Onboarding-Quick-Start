@@ -13,7 +13,7 @@ The student invite URL can be used to sign up for a course.
 
 3. Click on the clipboard in the **Student invite URL** field to copy the URL to the clipboard.
 
-![Student invite URL](.guides/img/studentInviteURLnew.png)
+![Student invite URL](.guides/img/URLstudentinvite.png)
 
 *You can now share this URL to invite others to your course.*
 

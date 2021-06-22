@@ -14,7 +14,7 @@ You may view your course using the special student accounts Codio creates for yo
 ### Logging in as a test student
 6. As soon as you have added the test students, you are able to log in as one of the test students by pressing the **Login as** button. Please note that this is only available for the special test student accounts.
 
-![View as student](.guides/img/student-viewnew.png)
+![View as student](.guides/img/studentviewofdash.png)
 
 *Note the bar at the top of the screen, letting you know that you are logged in as a test student.*
 
@@ -31,4 +31,4 @@ One very useful feature is to 'pin' an assignment. This allows the faculty membe
 
 9. Click the 'Pin' icon. 
 
-![Pin assignment](.guides/img/pinAssignmentnew.png)
+![Pin assignment](.guides/img/pin.png)
