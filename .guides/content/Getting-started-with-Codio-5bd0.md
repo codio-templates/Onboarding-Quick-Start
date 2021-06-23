@@ -10,6 +10,4 @@ To navigate this guide you can
 - use the **index** icon on the right of the toolbar to view a complete page list where you can click on a page to navigate to it. 
 - use the 'Next' button at the bottom of every page.
 
-
-![.guides/img/navigationKeys](.guides/img/navigationKeysnew.png)
-
+![Navigate the Guide](.guides/img/navkeys.png)

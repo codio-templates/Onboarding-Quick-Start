@@ -2,11 +2,11 @@
 ---
 Assessments can be accessed through the chess piece icon. 
 
-![.guides/img/chesspiece](.guides/img/chesspiece.png)
+![Assessment icon](.guides/img/chesspiece.png)
 
 There are many types, but the most commonly used are below:
 
-![.guides/img/commonassessments](.guides/img/commonassessments.png)
+![Common assessment types](.guides/img/commonassessments.png)
 
 |||important
 [**For more information on assessments, click here.**](https://docs.codio.com/instructors/authoring/assessments/add-assessment.html#add-assessment)
@@ -20,7 +20,7 @@ Create the assessment in page 2, titled *"Adding a Code Window."*
 ---
 1. Click on the **Assessments dropdown menu** and select **Standard Code Test**.
 
-![.guides/img/standardcode](.guides/img/standardcode.png)
+![Assessment dropdown to standard code test](.guides/img/assessmentlibrarystandardcode.png)
 
 2. Make sure **GENERAL** is selected.
 
@@ -29,11 +29,11 @@ Create the assessment in page 2, titled *"Adding a Code Window."*
 4. Paste the following into the **Instructions** section:
 
 `Change the print statement to say "Hello Python!"`
-![.guides/img/generalAssessment](.guides/img/generalAssessment.png)
+![Standard code test_General](.guides/img/generalAssessment.png)
 
 5. Select **EXECUTION** and type `python3 test.py` in the **COMMAND** field.
 
-![.guides/img/newassess](.guides/img/newassess.png)
+![Standard code test_Execution](.guides/img/standardcodeexecution.png)
 
 6. Select **GRADING**.
 
@@ -44,11 +44,11 @@ Create the assessment in page 2, titled *"Adding a Code Window."*
 9. In the **ERROR FEEDBACK** field enter `Did you use the correct punctuation?` 
 
 10. Click **SAVE**.
-![.guides/img/gradingAssessment](.guides/img/gradingAssessment.png)
+![Standard code test_Grading](.guides/img/gradingAssessment.png)
 
 11. When you go back to **Split View**, you will see the assessment in the Guides Editor on left and how it is rendered in the preview on the right.
 
-![.guides/img/renderedstandardcodetest](.guides/img/renderedstandardcodetest.png)
+![Rendered standard code test](.guides/img/renderedcodetest.png)
 
 #### Creating the Try It! Button
 ---
@@ -64,7 +64,7 @@ It is important to note that the `Check It!` button submits students' code for a
 
 This is how it will look once rendered:
 
-![.guides/img/renderedbuttons](.guides/img/renderedbuttons.png)
+![Rendered try it button and standard code test](.guides/img/buttonrender.png)
 
 #### Test It Out
 ---
@@ -74,7 +74,7 @@ Click the **Preview** eye icon to test out your Standard Code Test!
 Example of Correct Code
 </summary><hr>
 	
-![.guides/img/correctcode](.guides/img/correctcode.png)
+![Correct code example](.guides/img/correctcode.png)
 	
 The `Try it!` button shows the output of the program and the `Check it` button shows that the code passed the auto-grader.
 </details></td></tr></tbody>
@@ -84,7 +84,7 @@ The `Try it!` button shows the output of the program and the `Check it` button s
 Example of Incorrect Code
 </summary><hr>
 
-![.guides/img/incorrect](.guides/img/incorrectcode.png)
+![Incorrect code example](.guides/img/incorrectcode.png)
 	
 The `Try it!` Button shows there was a syntax error in the program and the `Check it` button shows that the program failed the auto-grader.
 	

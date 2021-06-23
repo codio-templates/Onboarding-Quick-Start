@@ -222,19 +222,6 @@
    "learningObjectives": ""
   },
   {
-   "id": "0d2052ac-046b-778e-15a3-6db36d4baf56",
-   "title": "Creating a Course from Existing Codio Resources",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Creating-a-Course-from-Existing-Codio-Resources-0d20.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "closeTerminalSession": true,
-   "learningObjectives": ""
-  },
-  {
    "id": "4f21a425-4024-429f-e3f1-e95010fcf99d",
    "title": "Adding instructional materials",
    "files": [],
@@ -284,6 +271,19 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Adding-teaching-assistants-5d7c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "0d2052ac-046b-778e-15a3-6db36d4baf56",
+   "title": "Creating a Course from Codio Resources",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Creating-a-Course-from-Codio-Resources-0d20.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,

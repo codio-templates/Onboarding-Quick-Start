@@ -2,7 +2,7 @@ Codio is the evidence-based learning platform for computer science education. Wi
 
 This Guide is a great way to learn the core features of Codio. We recommend all new users work through the contents as a first step.
 
-This video is a great introduction to Codio:![video](https://www.youtube.com/watch?v=5sHxyVBkpMQ) 
+This video is a great introduction to Codio:![Intro to Codio Video](https://www.youtube.com/watch?v=5sHxyVBkpMQ) 
 
 **This guide will walk you through  key features of Codio. To jump ahead, click the buttons below.**
 

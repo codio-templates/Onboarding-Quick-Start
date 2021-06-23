@@ -4,6 +4,7 @@ In the terminal window type:
 
 - `python3 test.py`
 
-![.guides/img/python-terminal](.guides/img/python-terminal.png)
+![Python terminal](.guides/img/python-terminal.png)
+
 
 

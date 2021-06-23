@@ -104,12 +104,6 @@
      "pageId": "9d353f22-1eca-4fc3-98ca-75749ffdefad"
     },
     {
-     "title": "Creating a Course from Existing Codio Resources",
-     "id": "b128a76f-55ec-96c4-d732-faedf97c821a",
-     "type": "page",
-     "pageId": "0d2052ac-046b-778e-15a3-6db36d4baf56"
-    },
-    {
      "title": "Adding instructional materials",
      "id": "27bd15eb-b66f-2e66-87f4-a4518c5e9cba",
      "type": "page",
@@ -132,6 +126,12 @@
      "id": "4cf64e7b-50a0-21b3-47b1-c8969879a51f",
      "type": "page",
      "pageId": "5d7c85b2-84ad-28b5-18ea-f366bca44fc8"
+    },
+    {
+     "title": "Creating a Course from Codio Resources",
+     "id": "b128a76f-55ec-96c4-d732-faedf97c821a",
+     "type": "page",
+     "pageId": "0d2052ac-046b-778e-15a3-6db36d4baf56"
     }
    ]
   },
