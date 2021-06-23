@@ -32,3 +32,4 @@ One very useful feature is to 'pin' an assignment. This allows the faculty membe
 9. Click the 'Pin' icon. 
 
 ![Pin assignment](.guides/img/pin.png)
+

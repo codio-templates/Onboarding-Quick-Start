@@ -14,5 +14,5 @@ Courses are organized in a hierarchical structure with modules (folders) that co
 
 3. Name your course 'My First Course' and click **Create Course**.
 
-
 ![Name the course](.guides/img/myFirstCourse.png)
+

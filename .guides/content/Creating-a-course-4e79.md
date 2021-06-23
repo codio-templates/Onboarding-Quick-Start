@@ -18,7 +18,7 @@ Click the pencil in the file tree
 </summary><hr>
 	
 ![Pencil in filetree](.guides/img/filetreepencil.png)
-	
+
 </details></td></tr></tbody>
 </table>
 
@@ -27,6 +27,7 @@ Click the pencil in the file tree
 2. In order to toggle between editor/preview mode, click the following icons:
 
 **Preview**: Allows you to view the rendered content of your page.
+
 ![Preview content](.guides/img/preview.png)
 
 **Edit**: Allows you to make edits to your page. 

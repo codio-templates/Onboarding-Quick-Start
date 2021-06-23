@@ -7,3 +7,4 @@ In the terminal window type:
 ![Python terminal](.guides/img/python-terminal.png)
 
 
+

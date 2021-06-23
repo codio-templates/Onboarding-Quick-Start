@@ -32,6 +32,7 @@ You can assign the project we created earlier or use a Codio supplied project.
 
 ![Copy a project](.guides/img/forkaproject.png)
 
+
 *Codio takes a snapshot of your source project, ready for the students to clone when they start the Assignment. Changes you make to the source project will not be reflected automatically in the student assignment in your course.*
 
 9. You can change the **name** of the assignment (by default it will be the name of your project with 'copy' appended) and add a description if you wish.
