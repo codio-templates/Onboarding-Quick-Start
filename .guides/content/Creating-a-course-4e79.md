@@ -1,46 +1,63 @@
-You use Markdown to create formatted content. Markdown provides many of the formatting capabilities without the need to dive into more complicated HTML syntax. You can find more information about Markdown in the [Codio documention](https://docs.codio.com/instructors/authoring/guides/markdown_content.html#markdown).
+### Guides Editor 
+---
+1. Open the Guides editor by selecting: 
 
-1. Open the Guides editor by selecting 
-**Tools->Guides->Edit**.
+<table><tbody ><tr><td><details><summary>
+Tools->Guides->Edit
+</summary><hr>
+	
+![Select tools-edit from menu](.guides/img/toolsedit.png) 
+	
+</details></td></tr></tbody>
+</table>
 
-2. To edit content and view the rendered version at the same time, click the **Panel Layout** dropdown menu and select **Split View**.
+OR
 
-![.guides/img/pageOne](.guides/img/pageOne.png)
+<table><tbody ><tr><td><details><summary>
+Click the pencil in the file tree
+</summary><hr>
+	
+![Pencil in filetree](.guides/img/filetreepencil.png)
+	
+</details></td></tr></tbody>
+</table>
+
+### Edit & Preview
+---
+2. In order to toggle between editor/preview mode, click the following icons:
+
+**Preview**: Allows you to view the rendered content of your page.
+![Preview content](.guides/img/preview.png)
+
+**Edit**: Allows you to make edits to your page. 
+
+![Edit content](.guides/img/edit.png)
+
+*To edit content and view the rendered version at the same time, click the **Panel Layout** dropdown menu and select **Split View**.* 
+ 
+![Split view content](.guides/img/splitview.png)
 
 
+### Creating a Page
+---
 
+3. Click the **index** icon to see a **Page List** and to add content. Your guide starts out with two blank pages. 
 
-3. Highlight **Page 1** and type "Your first assignment"
+4. Highlight **Page 1** and type "Your first assignment."
 
-4. Select the first line and copy and paste the following text:
+![Page panel](.guides/img/editpage.png)
+
+5. Click the clipboard to copy the text. Paste into your first page.
 
 ```
- To create a "Hello World" program follow these steps:
- * Select **File->New File**
- * Name your file "test.py"
- * Enter the following text into `test.py`: `print("Hello World")`
+Welcome to your first project! In this project we will learn about conditionals in Python.
+* if statements
+* if else statements
+* elif statements
 ```
-
 
 This is what it will look like once it is rendered:
+![Rendered view](.guides/img/pagerender.png)
 
-![.guides/img/renderedAssignment](.guides/img/renderedAssignment.png)
-
-
-5. Click on the "Hamburger" icon to see a **Page List** and to add content. Your guide starts out with two blank pages. 
-
-
-To edit a page or section, click on the item in the **Page List**.
-
-To rename or delete an element in your guide, right-click on the item in the **Page List**.
-
-### A Guide to Guides and Assessments
-The **Demo Guides and Assessments** project in My Projects contains a section on the full range of text formatting capabilities within guides as well as information on creating your own assessments. If you do not see this in your My Projects list, then 
-
-- For Codio.com users, [click here](https://codio.com/home/starter-packs/cc68d38b-b0ea-4825-9814-46a3594c2b11/)
-- For Codio.co.uk users, [click here](https://codio.co.uk/home/starter-packs/7c69bc1a-7f20-4cd1-a726-63a1c056790f)
-
-to create this from a Codio Starter Pack. Click the **Use Pack** button to create a new project from it.
-
-More information about Guides may also be found in the documentation section on [content authoring](https://docs.codio.com/authoring.html#introduction-to-guides).
+6. To rename or delete an element in your guide, right-click on the item in the **Page List**.
 
