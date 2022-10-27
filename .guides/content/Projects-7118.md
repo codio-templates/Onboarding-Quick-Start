@@ -1,5 +1,5 @@
 
-A project or 'Box' is the foundational structure in Codio. 
+A Project/Assignment or 'Box' is the foundational structure in Codio. 
 
 In essence, a box is a fully featured Ubuntu server with the following added features:
 
@@ -12,6 +12,6 @@ In essence, a box is a fully featured Ubuntu server with the following added fea
 
 
 
-Projects are the basis for almost everything you will do within Codio. 
+Projects/Assignments are the basis for almost everything you will do within Codio. 
 
 ![Code Window/Terminal/Guide](.guides/img/terminalguideide.png)

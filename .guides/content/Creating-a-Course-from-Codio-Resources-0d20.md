@@ -1,4 +1,4 @@
-Instead of creating your own course from scratch, you can access Codio's Resource Catalog and add any of the free Codio Resources of OERs. Click `Resources` on the left-hand side of the dashboard. 
+Instead of creating your own course from scratch, you can access Codio's Resource Catalog and add any of the free Codio Resources of OERs. Click **Resources** on the left-hand side of the dashboard. 
 
 ![Codio resource page](.guides/img/resourcepage.png)
 

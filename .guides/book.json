@@ -2,7 +2,7 @@
  "name": "Onboarding - Quick Start",
  "children": [
   {
-   "title": "Getting started with Codio",
+   "title": "Getting Started with Codio",
    "id": "a4f03fc3-ea02-2a56-e5ac-40750475558a",
    "type": "chapter",
    "pageId": "5bd04a1c-f59a-3746-60f1-23ef23843373",
@@ -22,13 +22,13 @@
    "pageId": "71189cea-ee66-e2b2-a06b-f6db3b46a4c6",
    "children": [
     {
-     "title": "Your first project ",
+     "title": "Your First Project ",
      "id": "8585dc8b-ba4b-9367-d1fc-5ecbab7c1eb8",
      "type": "page",
      "pageId": "e536b2c4-6b12-19e1-5abb-644c4834b6ec"
     },
     {
-     "title": "Read Me files",
+     "title": "Read Me Files",
      "id": "73bc4c31-0a88-f9cb-99a8-2f9475cca2a3",
      "type": "page",
      "pageId": "65d396e1-8971-bf5d-1b20-c68575f10944"
@@ -40,7 +40,7 @@
      "pageId": "329fcd85-040a-d34e-6d24-130f7dbb1d5b"
     },
     {
-     "title": "Run \"Hello World\" in the Terminal",
+     "title": "Run \"Hello Python!\" in the Terminal",
      "id": "115bbdcd-04a9-1e8a-51ec-24b795df4baa",
      "type": "page",
      "pageId": "aa3ceb78-253f-f0c1-c2b6-68d87ac6c389"
@@ -122,7 +122,7 @@
      "pageId": "f7b25d80-0ce2-364a-b76d-9d4c5a97ea80"
     },
     {
-     "title": "Adding teaching assistants",
+     "title": "Adding instructors",
      "id": "4cf64e7b-50a0-21b3-47b1-c8969879a51f",
      "type": "page",
      "pageId": "5d7c85b2-84ad-28b5-18ea-f366bca44fc8"

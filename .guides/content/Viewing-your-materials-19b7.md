@@ -1,35 +1,47 @@
-You may view your course using the special student accounts Codio creates for you. There are three special test student accounts that allows you to switch between a teacher view and a student view.
+
+You may view your course using the special student accounts Codio creates for you. There are three special test student accounts that allow you to switch between a teacher view and a student view.
+
+To view your course as a test student:
 
 1. Select your Codio course.
-2. Click on the **Students** tab near the top of the page.
-3. Now click the  **Add a Student** button.
-
-![Add test students](.guides/img/addTestStudents.png)
-
-4. Click on the **Add test students** button. 
-5. You will now see all three test students (unless you removed any test students) added to your class.
+2. Click on the **Students** tab under COURSE.
+3. Select **Add a student**.
 
 ![Test students added](.guides/img/added-test-students.png)
 
+4. Click on the **Add test students** button.
+
+![.guides/img/addTestStudents](.guides/img/addTestStudents.png)
+
+
+You will now see all three test students added to your class.
+
 ### Logging in as a test student
-6. As soon as you have added the test students, you are able to log in as one of the test students by pressing the **Login as** button. Please note that this is only available for the special test student accounts.
+---
+5. From the **Students** page you are able to log in and view your course as an assigned student by pressing the **Login as** button. Please note that this is only available for the special test student accounts.
+![.guides/img/loginasstudent](.guides/img/loginasstudent.png)
+
+Note the bar at the top of the screen, letting you know that you are logged in as a test student. When logged in as a student your experience on Codio will be restricted to what your students will have access to. 
+
 
 ![View as student](.guides/img/studentviewofdash.png)
 
-*Note the bar at the top of the screen, letting you know that you are logged in as a test student.*
-
 ### Switching back to the teacher
-7. You can switch back to your main teacher account in either of these two ways:
+---
+6. You can switch back to your main teacher account in either of these two ways:
 
-- Press the **Switch back to teacher account** button at the top of the page. 
 - Log out of the test student account.
+- Press the **Switch back to teacher account** button at the top of the page. 
+
+![.guides/img/switchtoteacher](.guides/img/switchtoteacher.png)
 
 ### Pinning an Assignment
-One very useful feature is to 'pin' an assignment. This allows the faculty member to pin the assignment to the top of the students' dashboards so it is easy to find.
+---
+One very useful feature is to '**Pin**' an assignment. This allows a teacher or faculty member to pin the assignment to the top of the students' dashboards so it is easy to find.
 
-8.  Go to the **Teach** tab
+7. With your Course selected, click the **Overview** tab.
 
-9. Click the 'Pin' icon. 
+8. Click the **Pin** icon. 
 
 ![Pin assignment](.guides/img/pin.png)
 

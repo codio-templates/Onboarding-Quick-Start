@@ -14,14 +14,14 @@ This example uses Python but you can choose any language you prefer.
 ![Create a new file](.guides/img/createFile.png) 
 
 
-3. You can switch between files by clicking the tabs or the files in the filetree. 
+3. You can switch between files by clicking the tabs or the files in the file tree. 
 
 ![Access files](.guides/img/file.png)
 
 4. Enter the following text into the `test.py` file.
 
 ```python
-print("Hello world")
+print("Hello Python!")
 ```
 ![Print hello world](.guides/img/filestabs.png)
 

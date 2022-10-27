@@ -1,7 +1,7 @@
 
 
 ## Codio Documentation Sources
-- The complete  [Codio Documentation](https://docs.codio.com/)
+- Click the link here for the complete  [Codio Documentation](https://docs.codio.com/).
 
 - Codio has created a number of [**Starter Packs**](https://docs.codio.com/develop/develop/packs/packs.html#id1) to demonstrate key features of the product. Click on a link below to view the pack and select **USE PACK** if you wish to install it as a Project. A few of general interest are listed below.
 

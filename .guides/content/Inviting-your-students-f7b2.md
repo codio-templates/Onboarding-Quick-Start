@@ -5,13 +5,14 @@ The student invite URL can be used to sign up for a course.
 
 1. Select the course you want to share.
 
-![Select course](.guides/img/selectCourse.png)
+![Select course](.guides/img/selectcourse.png)
 
-2. Select the **Admin** tab.
+2. Select **Course Details** in the ADMIN menu.
 
+![.guides/img/coursedetails](.guides/img/coursedetails.png)
 
-
-3. Click on the clipboard in the **Student invite URL** field to copy the URL to the clipboard.
+3. Toggle the SHARE CODE button to On.
+1. Click the clipboard in the 'Course share code' field to copy the URL.
 
 ![Student invite URL](.guides/img/URLstudentinvite.png)
 

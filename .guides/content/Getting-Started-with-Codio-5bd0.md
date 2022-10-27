@@ -1,13 +1,16 @@
 The best way to use this Guide is to have two Codio browser tabs or windows open. In one, run this Guide and in the other, follow the steps described.
 
 ### About Guides
+---
 This Guide is authored using Codio Guides. Guides is a content authoring feature that is an integral part of the Codio environment. 
 
 ### Navigating this Guide
-To navigate this guide you can 
+---
+To navigate this guide you can: 
 
-- use the navigation buttons in the toolbar.
-- use the **index** icon on the right of the toolbar to view a complete page list where you can click on a page to navigate to it. 
-- use the 'Next' button at the bottom of every page.
+- Use the **navigation** buttons in the upper right hand corner of this window.
+- Use the **index** icon on the right of the toolbar to view a complete page list where you can click on a page to navigate to it. 
 
 ![Navigate the Guide](.guides/img/navkeys.png)
+
+- Use the **Next** button at the bottom to advance to the next page.

@@ -12,9 +12,9 @@ Markdown is a lightweight markup language that you can use to add formatting ele
 * Tables
 * ...and many more!
 
-1. On your first page, convert the bulleted list to "Callout Blocks." This formatting option is created using the "pipe" or "vertical line" key: `|` 
+On the first page of the guide we created a bulleted list by preceding each list item with the `*` key. We will now convert the bulleted list to "Callout Blocks." This formatting option is created using the "pipe" or "vertical line" key: `|` 
 
-2. Click the clipboard to copy the text. Paste into your first page.
+Use the clipboard to copy the text below. Replace the original bulleted list with this new formatting.
 
 ```
 

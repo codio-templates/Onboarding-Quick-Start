@@ -1,18 +1,14 @@
-1. If the **Page List** isn't displayed, click on **index** icon.
+An assessment library in Codio is a collection of existing assessment items that you can add to or pull from to include in your assignments.
 
-2. Click on **Add page**.
+*Note: Adding an assessment from a library will automatically add a page to your guide.*
 
-3. Change the name to First Quiz and click on the entry to select the page.
-
-![Add new page for quiz](.guides/img/pageforassessment.png)
-
-4. Click on the **Add Assessment** dropdown menu and select **Assessment Library**.
+1. While in Edit mode, select **Assessment** under **Add from Library...**.
 
 ![Access assessment library](.guides/img/assessmentdropdownlibrary.png)
 
-5. Select **Codio Main** from the **Library Name** dropdown. 
+2. Click the **ADD** button on the right to use one of the assessments.
 
-![Codio Main library](.guides/img/codiomaininlibrary.png)
+![Codio Main library](.guides/img/codiomainlibrary.png)
 
 <table><tbody ><tr><td><details><summary>
 How to Search the Assessment Library
@@ -29,9 +25,9 @@ You can filter through the different assessments by tags that are auto-detected:
 </details></td></tr></tbody>
 </table>
 
-6. Click the **Select** button on the right to use one of the assessments.
 
-7. Click **Create**.
+
+3. Click **Create**.
 
 ![Create quiz](.guides/img/createassessment.png)
 

@@ -19,12 +19,13 @@ To learn about the other available features when starting a new project, see the
 ![Select a stack](.guides/img/startPython.png)
 
 
-### Project name
+### Add some details
 ---
-4. Give your project a name, enter "My First Project".
+4. Name your project by typing "My First Project" into the NAME field. For now we'll leave the DESCRIPTION field blank. 
+5. Set visibility to **Private**.
 
-5. Press enter or click the **Create** button to start your server and begin working on the project.
+6. Press enter or click the **Create** button to start your server and begin working on the project.
 
 ![Name the project](.guides/img/nameProject.png)
 
-
+*Note: the **Select gigabox** option is available for memory intensive assignments. The **Standard** option is appropriate for the majority of assignments. Click [here](https://docs.codio.com/instructors/setupcourses/assignment-settings/assignment-gigabox.html#assignment-gigabox) for more information on gigabox slots.*
