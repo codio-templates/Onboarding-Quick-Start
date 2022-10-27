@@ -1,26 +1,14 @@
 ### Guides Editor 
 ---
-1. Open the Guides editor by selecting: 
-
-<table><tbody ><tr><td><details><summary>
-Tools->Guides->Edit
-</summary><hr>
+1. Open the Guides editor by selecting either: 
+- Tools -> Guides -> Edit
 	
 ![Select tools-edit from menu](.guides/img/toolsedit.png) 
-	
-</details></td></tr></tbody>
-</table>
 
-OR
-
-<table><tbody ><tr><td><details><summary>
-Click the pencil in the file tree
-</summary><hr>
+- Or click the pencil in the file tree:
 	
 ![Pencil in filetree](.guides/img/filetreepencil.png)
 
-</details></td></tr></tbody>
-</table>
 
 ### Edit & Preview
 ---
@@ -34,7 +22,7 @@ Click the pencil in the file tree
 
 ![Edit content](.guides/img/edit.png)
 
-*To edit content and view the rendered version at the same time, click the **Panel Layout** dropdown menu and select **Split View**.* 
+*To edit content and view the rendered version at the same time, toggle-on **Split view**.* 
  
 ![Split view content](.guides/img/splitview.png)
 
@@ -48,7 +36,7 @@ Click the pencil in the file tree
 
 ![Page panel](.guides/img/editpage.png)
 
-5. Click the clipboard to copy the text. Paste into your first page.
+5. Click the clipboard to copy the text shown below. Paste the text into your first page.
 
 ```
 Welcome to your first project! In this project we will learn about conditionals in Python.
@@ -60,5 +48,5 @@ Welcome to your first project! In this project we will learn about conditionals 
 This is what it will look like once it is rendered:
 ![Rendered view](.guides/img/pagerender.png)
 
-6. To rename or delete an element in your guide, right-click on the item in the **Page List**.
+
 

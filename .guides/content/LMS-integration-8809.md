@@ -3,6 +3,7 @@ You can integrate Codio with your existing LMS system allowing your students to 
 - Canvas
 - Blackboard
 - Moodle
+- Schoology
 - D2L
 
 Many other LMS platforms are also supported. Any platform that supports the LTI interface may be integrated with Codio.
