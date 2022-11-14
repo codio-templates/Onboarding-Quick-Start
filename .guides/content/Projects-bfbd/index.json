@@ -1,0 +1,20 @@
+{
+	"chapter": false,
+	"closeTerminalSession": true,
+	"contentType": "markdown",
+	"files": [],
+	"id": "bfbd0999-3c02-c726-84a0-8d940dc432cc",
+	"layout": "1-panel",
+	"learningObjectives": "",
+	"order": [
+		"Your-First-Project--8585",
+		"Read-Me-Files-73bc",
+		"Add-files-fc2f",
+		"Run--Hello-Python---in-the-Terminal-115b"
+	],
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Projects",
+	"type": "chapter"
+}

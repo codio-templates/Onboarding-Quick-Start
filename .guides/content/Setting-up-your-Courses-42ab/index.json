@@ -1,0 +1,22 @@
+{
+	"chapter": false,
+	"closeTerminalSession": true,
+	"contentType": "markdown",
+	"files": [],
+	"id": "42ab7e28-a836-30b2-87ed-5cc6a26694bd",
+	"layout": "1-panel",
+	"learningObjectives": "",
+	"order": [
+		"Creating-a-Course-6f83",
+		"Adding-instructional-materials-27bd",
+		"Viewing-your-materials-f815",
+		"Inviting-your-students-d3b5",
+		"Adding-instructors-4cf6",
+		"Creating-a-Course-from-Codio-Resources-b128"
+	],
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Setting up your Courses",
+	"type": "chapter"
+}
