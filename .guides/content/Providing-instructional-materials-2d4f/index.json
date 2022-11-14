@@ -1,0 +1,22 @@
+{
+	"chapter": false,
+	"closeTerminalSession": true,
+	"contentType": "markdown",
+	"files": [],
+	"id": "2d4ff571-8d33-42da-0046-42656f5fd374",
+	"layout": "1-panel",
+	"learningObjectives": "",
+	"order": [
+		"Creating-a-Guide-451b",
+		"Formatting-your-page-30ee",
+		"Setting-up-your-page-for-display-9928",
+		"Creating-an-Assessment-fa8c",
+		"Using-an-existing-Assessment-c51d",
+		"More-on-Guides---Assessments-fcb6"
+	],
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Providing instructional materials",
+	"type": "chapter"
+}

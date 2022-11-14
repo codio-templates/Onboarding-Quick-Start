@@ -1,0 +1,24 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"Getting-Started-with-Codio-a4f0",
+		"Introduction-de81",
+		"Projects-bfbd",
+		"Providing-instructional-materials-2d4f",
+		"Setting-up-your-Courses-42ab",
+		"LMS-integration-1b87",
+		"More-information-edb2"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": true,
+	"theme": "light",
+	"title": "Onboarding - Quick Start",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

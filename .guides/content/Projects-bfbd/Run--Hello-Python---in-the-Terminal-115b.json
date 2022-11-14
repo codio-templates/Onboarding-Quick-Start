@@ -1,0 +1,14 @@
+{
+	"chapter": false,
+	"closeTerminalSession": true,
+	"contentType": "markdown",
+	"files": [],
+	"id": "115bbdcd-04a9-1e8a-51ec-24b795df4baa",
+	"layout": "1-panel",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Run \"Hello Python!\" in the Terminal",
+	"type": "page"
+}
