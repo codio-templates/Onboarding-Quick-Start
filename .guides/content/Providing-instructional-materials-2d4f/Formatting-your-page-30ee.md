@@ -40,7 +40,7 @@ Use the clipboard to copy the text below. Replace the original bulleted list wit
 
 This is what it will look like once it is rendered: 
 
-![Rendered call out buttons](.guides/img/calloutrender.png)
+![Displays how the above text field will render for students when placed into the Guide's markdown editor.](.guides/img/calloutrender.png)
 
 *View your rendered content by selecting **Split View** OR **Preview.***
 
@@ -49,7 +49,7 @@ This is what it will look like once it is rendered:
 ### Explore Markdown
 ---
 
-Visit the link below fore more information on Markdown content editing. Play around on this page with Markdown formatting. 
+Visit the link below for more information on Markdown content editing. Play around on this page with Markdown formatting. 
 
  [**Click here for a complete list.**](https://docs.codio.com/instructors/authoring/guides/markdown_content.html)
 

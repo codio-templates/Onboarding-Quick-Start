@@ -15,4 +15,4 @@ From your Guide you can:
 - Access the Code Visualizer and pre-populate it with student code.
 - Create student-triggered auto-graded assessments.
    
-![Code Window/Terminal/Guide](.guides/img/terminalguideide.png)
+![Python code editor on top left showing input-validation program, terminal window on bottom left, and Guide on right.](.guides/img/terminalguideide.png)

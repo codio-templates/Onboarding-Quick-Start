@@ -14,4 +14,4 @@ In essence, a box is a fully featured Ubuntu server with the following added fea
 
 Projects/Assignments are the basis for almost everything you will do within Codio. 
 
-![Code Window/Terminal/Guide](.guides/img/terminalguideide.png)
+![Python code editor on top left showing input-validation program, terminal window on bottom left, and Guide on right.](.guides/img/terminalguideide.png)

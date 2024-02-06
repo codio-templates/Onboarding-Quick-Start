@@ -11,6 +11,6 @@ To navigate this guide you can:
 - Use the **navigation** buttons in the upper right hand corner of this window.
 - Use the **index** icon on the right of the toolbar to view a complete page list where you can click on a page to navigate to it. 
 
-![Navigate the Guide](.guides/img/navkeys.png)
+![Top right of screen has bar with forward and back arrows for navigation, a gear icon for settings, and hamburger icon for index.](.guides/img/navkeys.png)
 
 - Use the **Next** button at the bottom to advance to the next page.

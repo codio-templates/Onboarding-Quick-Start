@@ -2,7 +2,7 @@ Courses are managed from the Courses section of the dashboard.
 
 Courses are organized in a hierarchical structure with modules (folders) that correspond to each week of your course. 
 
-![Course structure](.guides/img/course-structure.png)
+![A hierarchical diagram outlining a course structure for 'CS1 in Python' with two modules: 'Week 1 Basics' and 'Week 2 Variables', each containing three assignments: 'Reading', 'Homework', and 'Programming'.](.guides/img/course-structure.png)
 
 ### Creating New Courses
 ---
@@ -10,7 +10,7 @@ Courses are organized in a hierarchical structure with modules (folders) that co
 
 2. Select **Add Empty Course**.
 
-![Create a new course](.guides/img/startnewcourse.png)
+![Step 1) Select 'Courses' tab from the Codio dashboard, then select 'New Course'. Step 2) Select 'Add Empty Course' from the drop-down menu options.](.guides/img/startnewcourse.png)
 
 3. Name your course 'My First Course' 
 
@@ -18,5 +18,5 @@ Courses are organized in a hierarchical structure with modules (folders) that co
 
 5. Click **Create Course**.
 
-![Name the course](.guides/img/myFirstCourse.png)
+![Perform these additional steps in the 'Create a new Course' pop-up menu: Step 3) Add a course name. Step 4) Under IN ORGANIZATION, select your organization from the drop-down menu. Step 5) Select the 'Create Course' button.](.guides/img/myFirstCourse.png)
 
