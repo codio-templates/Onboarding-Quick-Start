@@ -1,6 +1,6 @@
 Courses are where you create, organize and distribute content to your students.
 
-![.guides/img/coursesdashboard](.guides/img/coursesdashboard.png)
+![Select 'Courses' tab from the Codio dashboard.](.guides/img/coursesdashboard.png)
 
 Assignments (Codio boxes) can be directly created inside **Courses**, providing structure to your resources. Experimental assignments can live in **My Projects** and later be added to a course. 
 

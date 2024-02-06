@@ -2,7 +2,7 @@
 ---
 Assessments can be accessed through the **Assessments** button at the top of the page. 
 
-![Assessment icon](.guides/img/assessmentsButton.png)
+![Drop-down button with clipboard icon labeled 'Assessments'.](.guides/img/assessmentsButton.png)
 
 ### Your First Standard Code Test
 ---
@@ -10,12 +10,12 @@ Create the assessment in page 2, titled *"Adding a Code Window."*
 
 *Note: The assessment you create should be placed after the directions, so highlight the corresponding line in the Guides Editor, then follow the steps below:*
 
-![.guides/img/cursorcodewindow](.guides/img/cursorcodewindow.png)
+![Markdown editor shown in left panel with placeholder shown at line 6. Guide shown in right panel.](.guides/img/cursorcodewindow.png)
 #### Creating the Assessment
 
 1. Click on the **Assessments** button and select **Standard Code Test**.
 
-![Assessment dropdown to standard code test](.guides/img/assessmentlibrarystandardcode.png)
+![Step 1) Select 'Assessments' button and select Standard Code Test from the drop-down options.](.guides/img/assessmentlibrarystandardcode.png)
 
 2. Make sure **GENERAL** is selected.
 
@@ -27,7 +27,7 @@ Create the assessment in page 2, titled *"Adding a Code Window."*
 Change the print statement to say "Hello Python!"
 ```
 
-![Standard code test_General](.guides/img/generalAssessment.png)
+![Step 2) Select GENERAL tab. Step 3) Enter assessment name into NAME field. Step 4) Enter instructions for students into INSTRUCTIONS field.](.guides/img/generalAssessment.png)
 
 5. Select the **EXECUTION** tab.
 
@@ -37,7 +37,7 @@ Change the print statement to say "Hello Python!"
 python3 test.py
 ```
 
-![Standard code test_Execution](.guides/img/standardcodeexecution.png)
+![Step 5) Select EXECUTION tab. Step 6) Enter command to execute student code file into COMMAND field.](.guides/img/standardcodeexecution.png)
 
 7. Select the **GRADING** tab.
 
@@ -53,11 +53,11 @@ Did you use the correct punctuation?
 ```
 
 11. Click **CREATE**.
-![Standard code test_Grading](.guides/img/gradingAssessment.png)
+![Step 7) Select GRADING tab. Step 8) Add text to EXPECTED OUTPUT field. Step 9) Toggle on SHOW ERROR FEEDBACK. Step 10) Add text to SHOW ERROR FEEDBACK field. Step 11) Select CREATE button.](.guides/img/gradingAssessment.png)
 
 12. When you go back to **Split view**, you will see the assessment in the Guides Editor on left and how it is rendered in the preview on the right.
 
-![Rendered standard code test](.guides/img/renderedcodetest.png)
+![Markdown text and `Assessment 1` button on line 6 are emphasized in editor in left panel, and corresponding rendered assessment is emphasized in Guide in right panel.](.guides/img/renderedcodetest.png)
 
 It is important to note that the `Check It!` button submits students' code for auto-grading. Students should submit only when their work is finalized and they feel confident it is correct. So how do they test out their code before submitting it for grading?
 
@@ -76,7 +76,7 @@ The `Try it!` button is what students will use to check their code as they work,
 
 This is how it will look once rendered:
 
-![Rendered try it button and standard code test](.guides/img/buttonrender.png)
+![Markdown text formatting of 'Try it' button is emphasized on line 9 of Guide in left panel, and corresponding rendered button is emphasized in Guide in right panel.](.guides/img/buttonrender.png)
 
 #### Test It Out
 
@@ -86,7 +86,7 @@ Click the **Preview** eye icon to test out your Standard Code Test!
 Example of Correct Code
 </summary><hr>
 	
-![Correct code example](.guides/img/correctcode.png)
+![Guide page after 'TRY IT' and 'Check It' buttons have been selected: below 'TRY IT' button is a field with a check mark, indicating successful execution, with the program output 'Hello Python!', and below 'Check It' is a field with a check mark and the text 'Check 1 passed'.](.guides/img/correctcode.png)
 	
 The `Try it!` button shows the output of the program and the `Check it` button shows that the code passed the auto-grader.
 </details></td></tr></tbody>
@@ -96,7 +96,7 @@ The `Try it!` button shows the output of the program and the `Check it` button s
 Example of Incorrect Code
 </summary><hr>
 
-![Incorrect code example](.guides/img/incorrectcode.png)
+![Guide page after 'TRY IT' and 'Check It' buttons have been selected: below 'TRY IT' button is a field with an 'x', indicating unsuccessful execution, with the relevant error message text, and below 'Check It' is a field with an 'x', the text 'Check 1 failed', the code file's current output, and the expected output.](.guides/img/incorrectcode.png)
 	
 The `Try it!` Button shows there was a syntax error in the program and the `Check it` button shows that the program failed the auto-grader.
 	

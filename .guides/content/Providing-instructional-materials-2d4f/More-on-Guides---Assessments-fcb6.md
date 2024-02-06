@@ -2,7 +2,7 @@
 ---
 The **Demo Guides and Assessments** project in **My Projects** contains a section on the full range of text formatting capabilities within guides as well as information on creating your own assessments. 
 
-![.guides/img/demoguides](.guides/img/demoguides.png)
+![With 'My Projects' tab selected on the Codio dashboard, select 'Demo Guides and Assessments' to open.](.guides/img/demoguides.png)
 
 If you do not see this in your **My Projects** list, then use the following link to create it from a Codio Starter Pack: 
 

@@ -4,7 +4,7 @@ In the terminal window type the following, then hit enter:
 
 - `python3 test.py`
 
-![Python terminal](.guides/img/python-terminal.png)
+![With Terminal tab selected, type command to run file.](.guides/img/python-terminal.png)
 
 
 

@@ -1,6 +1,6 @@
 Instead of creating your own course from scratch, you can access Codio's Resource Catalog and add any of the free Codio Resources of OERs. Click **Resources** on the left-hand side of the dashboard. 
 
-![Codio resource page](.guides/img/resources.png)
+![Select 'Resources' from TEACH menu on the dashboard.](.guides/img/resources.png)
 
 
 - In the catalog, you can filter by Language. 

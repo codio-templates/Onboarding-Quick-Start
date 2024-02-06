@@ -4,11 +4,11 @@ An assessment library in Codio is a collection of existing assessment items that
 
 1. While in Edit mode, select **Assessment** under **Add from Library...**.
 
-![Access assessment library](.guides/img/assessmentdropdownlibrary.png)
+![Step 1) Select 'Assessments' button; under 'Add From Library...' select Assessment.](.guides/img/assessmentdropdownlibrary.png)
 
 2. Click the **ADD** button on the right to use one of the assessments.
 
-![Codio Main library](.guides/img/codiomainlibrary.png)
+![Step 2) Select 'Add' button on right side.](.guides/img/codiomainlibrary.png)
 
 <table><tbody ><tr><td><details><summary>
 How to Search the Assessment Library
@@ -29,7 +29,7 @@ You can filter through the different assessments by tags that are auto-detected:
 
 3. Click **Create**.
 
-![Create quiz](.guides/img/createassessment.png)
+![Step 3) Select 'Create' button at the bottom.](.guides/img/createassessment.png)
 
 To create a local library for your organization see [this document](https://docs.codio.com/instructors/admin/organization/create-org-library.html#org-library).
 

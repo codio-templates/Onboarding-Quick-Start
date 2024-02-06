@@ -5,7 +5,7 @@ Click on the file name in your **File Tree**. You can switch the viewing modes u
 1. Switch to **Edit**
 2. Return to **Preview** 
 
-![README modes](.guides/img/readMeModes.png)
+![Step 1) Select Pencil icon to Switch to Code. Step 2) Select Doc icon to Switch to Preview ](.guides/img/readMeModes.png)
 
 An alternate way to provide instructions to your students is the `README.md` file. This is a simple approach to creating instructions and the student can open and close the file as needed. 
 
