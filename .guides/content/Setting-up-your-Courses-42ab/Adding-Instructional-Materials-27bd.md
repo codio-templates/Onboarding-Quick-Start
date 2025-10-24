@@ -8,9 +8,9 @@ You can assign the project we created earlier or use a Codio supplied project.
 ## Add a Module
 1. With the course selected, click the **Edit Assignments** tab under COURSE on the left side of the page.
 
-2. Click the **New module** button and select **Add Empty Module**.
+2. Click the **Add Empty Module** button at the bottom of the page.
 
-![From 'Courses' tab, Step 1) Select 'Edit Assignments' tab. Step 2) Select 'New module' and 'Add Empty Module' from the drop-down menu.](.guides/img/selectnewmodule.png)
+![From 'Courses' tab, Step 1) Select 'Edit Assignments' tab. Step 2) Select 'Add Empty Module' at the bottom of the page.](.guides/img/selectnewmodule.png)
 
 3. Name your new module **Week 1**.
 
@@ -18,9 +18,9 @@ You can assign the project we created earlier or use a Codio supplied project.
 ![Step 3) Enter a name for the module. Step 4) Select 'Add Module' button.](.guides/img/addModule.png)
 
 ## Add an Assignment
-5. In your newly created module click **Add assignment** and then select **Project Based** from the dropdown menu.
+5. In your newly created module click **Add assignment**.
 
-![Step 5) Select 'Add assignment' button and select 'Project based' from the drop-down menu.](.guides/img/assignmentadd.png)
+![Step 5) Select 'Add assignment' button.](.guides/img/assignmentadd.png)
 
 Use the project you created earlier in this guide.
 

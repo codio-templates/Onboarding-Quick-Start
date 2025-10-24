@@ -3,13 +3,11 @@
 	"closeTerminalSession": true,
 	"contentType": "markdown",
 	"files": [],
-	"id": "edb29264-51c8-b06b-9ff6-1272bef51114",
-	"layout": "1-panel",
+	"id": "9928b425-1fac-82f0-f66a-8984a519ef92",
 	"learningObjectives": "",
-	"order": [],
 	"path": [],
 	"reset": [],
 	"teacherOnly": false,
-	"title": "More information",
-	"type": "chapter"
+	"title": "Setting up your Page for Display",
+	"type": "page"
 }

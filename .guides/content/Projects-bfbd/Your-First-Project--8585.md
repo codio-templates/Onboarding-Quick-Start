@@ -1,14 +1,14 @@
 Follow these steps to create your first Codio project. 
 
-1. In the main dashboard, choose **My Projects** in the left hand toolbar. 
+1. In the main dashboard, select **Build > My Projects** from the top toolbar.
 
 2. Click the **New Project** button. Codio projects always auto-save.
 
-![From Codio Dashboard: Step 1) Select My Projects tab. Step 2) Select New Project button.](.guides/img/newProject.png)
+![From Codio Dashboard: Step 1) Select Build > My Projects. Step 2) Select New Project button.](.guides/img/newProject.png)
 
 
 
-### Stack selection
+### Stack Selection
 ---
 **Stacks** contain the tools (databases, languages) and configuration information needed to run your project. Codio offers you a range of commonly used configurations to get you started. For more information about customizing stacks and creating your own see the [Stacks documentation](https://docs.codio.com/develop/develop/stacks/using-stacks.html#id1).
 
@@ -19,7 +19,7 @@ To learn about the other available features when starting a new project, see the
 ![Step 3) From Empty with Stack, Select Python stack under Select Your Starting Point.](.guides/img/startPython.png)
 
 
-### Add some details
+### Add Some Details
 ---
 4. Name your project by typing "My First Project" into the NAME field. For now we'll leave the DESCRIPTION field blank. 
 5. Set visibility to **Private**.

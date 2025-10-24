@@ -5,7 +5,7 @@ To view your course as a test student:
 
 1. Select your Codio course.
 2. Click on the **Students** tab under COURSE.
-3. Select **Add a student**.
+3. Select **Add a student** (You can also select **Add one now** from the blue banner).
 
 ![Step 1) Open your course from the 'Courses' tab. Step 2) Select 'Students' tab. Step 3) Select 'Add a student'.](.guides/img/added-test-students.png)
 
@@ -18,7 +18,7 @@ You will now see all three test students added to your class.
 
 ### Logging in as a test student
 ---
-5. From the **Students** page you are able to log in and view your course as an assigned student by pressing the **Login as** button. Please note that this is only available for the special test student accounts.
+5. From the **Students** page, you can log in and view your course from a student's perspective by clicking **Login as** from the three-dot menu next to the test student. Please note that this is only available for the special test student accounts.
 ![Step 5) Select 'Login as' button next a test student.](.guides/img/loginasstudent.png)
 
 Note the bar at the top of the screen, letting you know that you are logged in as a test student. When logged in as a student your experience on Codio will be restricted to what your students will have access to. 

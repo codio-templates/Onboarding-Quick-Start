@@ -1,4 +1,4 @@
-Instead of creating your own course from scratch, you can access Codio's Resource Catalog and add any of the free Codio Resources of OERs. Click **Resources** on the left-hand side of the dashboard. 
+Instead of creating your own course from scratch, you can access Codio's Resource Catalog and add any of the free Codio Resources. Click **Resources** on the top menu. 
 
 ![Select 'Resources' from TEACH menu on the dashboard.](.guides/img/resources.png)
 
@@ -7,9 +7,9 @@ Instead of creating your own course from scratch, you can access Codio's Resourc
 
 1. Click on the resource square for more information.
 
-2. Click Evaluate if you would like to add it to your account.
+2. Click **Add Courseware** if you would like to add it to your account.
 
-3. Once you give your course a name, press `Create`. The rest if the details may be filled in at a later time.
+3. Once you give your course a name, press **Create**. The rest of the details may be filled in at a later time.
 
 4. Explore your course. Remember: everything in Codio Resources (and we mean everything)—from the text and code examples to auto-graded assessments, can be customized to suit your teaching context. You can even mix-and-match different resources together and with your own content! 
 

@@ -1,0 +1,17 @@
+{
+	"id": "5d393268-12b6-8b14-b237-040c38a84ed1",
+	"title": "Generating Content Drafts with AI",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

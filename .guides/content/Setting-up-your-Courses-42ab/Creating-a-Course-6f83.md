@@ -8,7 +8,7 @@ Courses are organized in a hierarchical structure with modules (folders) that co
 ---
 1. Create a new course by selecting **Courses** and pressing the **New Course** button at the top of the page.
 
-2. Select **Add Empty Course**.
+2. Select **Add Course**.
 
 ![Step 1) Select 'Courses' tab from the Codio dashboard, then select 'New Course'. Step 2) Select 'Add Empty Course' from the drop-down menu options.](.guides/img/startnewcourse.png)
 
