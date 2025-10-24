@@ -2,10 +2,47 @@
 ---
 Assessments can be accessed through the **Assessments** button at the top of the page. 
 
+
 ![Drop-down button with clipboard icon labeled 'Assessments'.](.guides/img/assessmentsButton.png)
 
-### Your First Standard Code Test
+### Your First Standard Code Test 
 ---
+You can create a standard code test in two ways: build one manually or generate one with AI. We'll walk through both approaches on this page.
+
+For more information about adding a Standard Code Test, view this video:
+
+
+<iframe src="https://fast.wistia.net/embed/iframe/rsmrdwd2y2" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+
+### Assessment Auto-Generation
+
+Assessments can be auto-generated using the text on the current guides page as context. Follow the steps below to auto-generate a Standard Code Test assessment:
+
+1. Select **Standard Code Test** from the Assessments list.
+
+2. Press the **Generate** button at bottom right corner.
+
+   ![Generate assessment button](.guides/img/generate-assessment-button.png)
+
+3. The Generation Prompt will open, press **Generate Using AI** to preview the generated assessment.
+
+   ![Assessment Generation Prompt](.guides/img/assessment-generation-prompt.png)
+
+   - The Standard Code Test assessment generation provides instructions for the student, the test cases, the solution, and an explanation of the solution. The test cases may use standard input or command line arguments, and the expected output is specified.
+   
+   - Codio also creates the code file for the student, with the solution bracketed within [solution templates](#solution-file-templating).
+   
+   - The generate assessment feature does not configure the page [layout](#layout); you should specify the layout depending on how you want to present the information to the students.
+
+   If you are not satisfied with the result, select **Regenerate** to create a new version of the assessment. You can provide additional guidance in the **Generation Prompt** field. For example, *create assessment based on the first paragraph with 2 correct answers.*
+
+4. When you are satisfied with the result, press **Apply** and then **Create**.
+
+
+
+### Assessment Manual Creation
+
 Create the assessment in page 2, titled *"Adding a Code Window."*
 
 *Note: The assessment you create should be placed after the directions, so highlight the corresponding line in the Guides Editor, then follow the steps below:*
@@ -77,6 +114,8 @@ The `Try it!` button is what students will use to check their code as they work,
 This is how it will look once rendered:
 
 ![Markdown text formatting of 'Try it' button is emphasized on line 9 of Guide in left panel, and corresponding rendered button is emphasized in Guide in right panel.](.guides/img/buttonrender.png)
+
+
 
 #### Test It Out
 

@@ -3,12 +3,13 @@
 	"closeTerminalSession": true,
 	"contentType": "markdown",
 	"files": [],
-	"id": "d3b5e0fa-e8bd-46a7-69af-136231f61e0e",
+	"id": "edb29264-51c8-b06b-9ff6-1272bef51114",
 	"layout": "1-panel",
 	"learningObjectives": "",
+	"order": [],
 	"path": [],
 	"reset": [],
 	"teacherOnly": false,
-	"title": "Inviting your students",
-	"type": "page"
+	"title": "More Information",
+	"type": "chapter"
 }

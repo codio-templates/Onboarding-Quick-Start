@@ -1,11 +1,11 @@
 ### Guides Editor 
 ---
 1. Open the Guides editor by selecting either: 
-- Tools -> Guides -> Edit
-	
-![Step 1) Select Tools from menu-bar, then Guide, then Edit.](.guides/img/toolsedit.png) 
+   - Tools -> Guides -> Edit
+   
+   ![Step 1) Select Tools from menu-bar, then Guide, then Edit.](.guides/img/toolsedit.png) 
 
-- Or click the pencil in the file tree:
+   - Or click the pencil in the file tree:
 	
 ![Alternative Step 1) Select pencil icon above file tree.](.guides/img/filetreepencil.png)
 
@@ -14,15 +14,15 @@
 ---
 2. In order to toggle between editor/preview mode, click the following icons:
 
-**Preview**: Allows you to view the rendered content of your page.
+   **Preview**: Allows you to view the rendered content of your page.
+   
+   ![Button with an eye icon and the text 'Preview'.](.guides/img/preview.png)
 
-![Button with an eye icon and the text 'Preview'.](.guides/img/preview.png)
+   **Edit**: Allows you to make edits to your page. 
+   
+   ![button with a pencil icon and the text 'Edit'.](.guides/img/edit.png)
 
-**Edit**: Allows you to make edits to your page. 
-
-![button with a pencil icon and the text 'Edit'.](.guides/img/edit.png)
-
-*To edit content and view the rendered version at the same time, toggle-on **Split view**.* 
+   *To edit content and view the rendered version at the same time, toggle-on **Split view**.* 
  
 ![Split view next to toggle (blue for toggled-on)](.guides/img/splitview.png)
 
